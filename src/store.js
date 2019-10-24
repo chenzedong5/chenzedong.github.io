@@ -7,6 +7,7 @@ import {
 import rootSaga from "saga/rootSaga"
 import createSagaMiddleware from 'redux-saga';
 import commonState from "reducer/common"
+import psyTestState from "reducer/psyTest"
 
 const sagaMiddleware = createSagaMiddleware({
   onError(er) {
@@ -18,7 +19,8 @@ const composeEnhancers = process.env.NODE_ENV === "development" ? (window.__REDU
 
 
 export default createStore(combineReducers({
-  commonState
+  commonState,
+  psyTestState
 }), composeEnhancers(applyMiddleware(sagaMiddleware)))
 
 sagaMiddleware.run(rootSaga)

@@ -1,0 +1,4592 @@
+[
+  {
+    "_id": "5c0a61ed16bac7899792b560",
+    "sum": 20,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你对自己的能力有良好的认知，遇事理智并在需要时发挥智慧",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b561",
+    "sum": 19,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你对自己的能力有良好的认知，遇事理智并在需要时发挥智慧",
+    "chineseTextDetail": "",
+    "score": 90
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b562",
+    "sum": 18,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你对自己的能力有良好的认知，遇事理智并在需要时发挥智慧",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b563",
+    "sum": 17,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你敢于接受任务，但是遇到困难后缺失信心，可能会退缩",
+    "chineseTextDetail": "",
+    "score": 67
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b564",
+    "sum": 16,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你敢于接受任务，但是遇到困难后缺失信心，可能会退缩",
+    "chineseTextDetail": "",
+    "score": 52
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b565",
+    "sum": 15,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你敢于接受任务，但是遇到困难后缺失信心，可能会退缩",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b566",
+    "sum": 14,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 24
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b567",
+    "sum": 13,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 13
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b568",
+    "sum": 12,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b569",
+    "sum": 11,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b56a",
+    "sum": 10,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b56b",
+    "sum": 9,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b56c",
+    "sum": 8,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b56d",
+    "sum": 7,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b56e",
+    "sum": 6,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b56f",
+    "sum": 5,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b570",
+    "sum": 4,
+    "category": "Self-Efficacy",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你因为怕失败所以经常拒绝挑战，导致能力并不能完全展现",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b571",
+    "sum": 20,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你做事井然有序，做事前要制定计划且喜欢按照计划完成任务",
+    "chineseTextDetail": "",
+    "score": 98
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b572",
+    "sum": 19,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你做事井然有序，做事前要制定计划且喜欢按照计划完成任务",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b573",
+    "sum": 18,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你做事井然有序，做事前要制定计划且喜欢按照计划完成任务",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b574",
+    "sum": 17,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你做事井然有序，做事前要制定计划且喜欢按照计划完成任务",
+    "chineseTextDetail": "",
+    "score": 87
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b575",
+    "sum": 16,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你做事井然有序，做事前要制定计划且喜欢按照计划完成任务",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b576",
+    "sum": 15,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你做事井然有序，做事前要制定计划且喜欢按照计划完成任务",
+    "chineseTextDetail": "",
+    "score": 73
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b577",
+    "sum": 14,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你喜欢按照计划完成任务，但也享受计划外创造出的意外之喜",
+    "chineseTextDetail": "",
+    "score": 66
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b578",
+    "sum": 13,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你喜欢按照计划完成任务，但也享受计划外创造出的意外之喜",
+    "chineseTextDetail": "",
+    "score": 57
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b579",
+    "sum": 12,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你喜欢按照计划完成任务，但也享受计划外创造出的意外之喜",
+    "chineseTextDetail": "",
+    "score": 49
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b57a",
+    "sum": 11,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你喜欢按照计划完成任务，但也享受计划外创造出的意外之喜",
+    "chineseTextDetail": "",
+    "score": 41
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b57b",
+    "sum": 10,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你喜欢按照计划完成任务，但也享受计划外创造出的意外之喜",
+    "chineseTextDetail": "",
+    "score": 33
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b57c",
+    "sum": 9,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一个自由的灵魂，喜欢自由发挥，不喜欢被既定计划禁锢",
+    "chineseTextDetail": "",
+    "score": 25
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b57d",
+    "sum": 8,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一个自由的灵魂，喜欢自由发挥，不喜欢被既定计划禁锢",
+    "chineseTextDetail": "",
+    "score": 18
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b57e",
+    "sum": 7,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一个自由的灵魂，喜欢自由发挥，不喜欢被既定计划禁锢",
+    "chineseTextDetail": "",
+    "score": 12
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b57f",
+    "sum": 6,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一个自由的灵魂，喜欢自由发挥，不喜欢被既定计划禁锢",
+    "chineseTextDetail": "",
+    "score": 7
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b580",
+    "sum": 5,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一个自由的灵魂，喜欢自由发挥，不喜欢被既定计划禁锢",
+    "chineseTextDetail": "",
+    "score": 3
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b581",
+    "sum": 4,
+    "category": "Orderliness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一个自由的灵魂，喜欢自由发挥，不喜欢被既定计划禁锢",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b582",
+    "sum": 20,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你的责任心很强，严格遵守你的原则，完成职责范围内的任务",
+    "chineseTextDetail": "",
+    "score": 95
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b583",
+    "sum": 19,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你的责任心很强，严格遵守你的原则，完成职责范围内的任务",
+    "chineseTextDetail": "",
+    "score": 88
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b584",
+    "sum": 18,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你的责任心很强，严格遵守你的原则，完成职责范围内的任务",
+    "chineseTextDetail": "",
+    "score": 78
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b585",
+    "sum": 17,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有责任心，在遵循一定规矩的基础上灵活处理事情",
+    "chineseTextDetail": "",
+    "score": 66
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b586",
+    "sum": 16,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有责任心，在遵循一定规矩的基础上灵活处理事情",
+    "chineseTextDetail": "",
+    "score": 54
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b587",
+    "sum": 15,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有责任心，在遵循一定规矩的基础上灵活处理事情",
+    "chineseTextDetail": "",
+    "score": 41
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b588",
+    "sum": 14,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 28
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b589",
+    "sum": 13,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 17
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b58a",
+    "sum": 12,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 8
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b58b",
+    "sum": 11,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 2
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b58c",
+    "sum": 10,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b58d",
+    "sum": 9,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b58e",
+    "sum": 8,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b58f",
+    "sum": 7,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b590",
+    "sum": 6,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b591",
+    "sum": 5,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b592",
+    "sum": 4,
+    "category": "Dutifulness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你讨厌麻烦，不喜欢被约束，不会死板的按照规矩办事",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b593",
+    "sum": 20,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个追求卓越的人，完全清晰自己的人生方向并为之努力",
+    "chineseTextDetail": "",
+    "score": 91
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b594",
+    "sum": 19,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个追求卓越的人，完全清晰自己的人生方向并为之努力",
+    "chineseTextDetail": "",
+    "score": 84
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b595",
+    "sum": 18,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个追求卓越的人，完全清晰自己的人生方向并为之努力",
+    "chineseTextDetail": "",
+    "score": 76
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b596",
+    "sum": 17,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会为实现目标而努力，但是不会追逐过于遥远的目标",
+    "chineseTextDetail": "",
+    "score": 66
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b597",
+    "sum": 16,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会为实现目标而努力，但是不会追逐过于遥远的目标",
+    "chineseTextDetail": "",
+    "score": 56
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b598",
+    "sum": 15,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会为实现目标而努力，但是不会追逐过于遥远的目标",
+    "chineseTextDetail": "",
+    "score": 46
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b599",
+    "sum": 14,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会为实现目标而努力，但是不会追逐过于遥远的目标",
+    "chineseTextDetail": "",
+    "score": 35
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b59a",
+    "sum": 13,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 26
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b59b",
+    "sum": 12,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 17
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b59c",
+    "sum": 11,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 9
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b59d",
+    "sum": 10,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b59e",
+    "sum": 9,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b59f",
+    "sum": 8,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a0",
+    "sum": 7,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a1",
+    "sum": 6,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a2",
+    "sum": 5,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a3",
+    "sum": 4,
+    "category": "Achievement-Striving",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个佛系boy/girl，对于目标要求不高，只要能完成就可以",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a4",
+    "sum": 20,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个自律的人，强大的意念让你不受干扰",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a5",
+    "sum": 19,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个自律的人，强大的意念让你不受干扰",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a6",
+    "sum": 18,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个自律的人，强大的意念让你不受干扰",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a7",
+    "sum": 17,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个自律的人，强大的意念让你不受干扰",
+    "chineseTextDetail": "",
+    "score": 86
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a8",
+    "sum": 16,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个自律的人，强大的意念让你不受干扰",
+    "chineseTextDetail": "",
+    "score": 77
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5a9",
+    "sum": 15,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个自律的人，强大的意念让你不受干扰",
+    "chineseTextDetail": "",
+    "score": 68
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5aa",
+    "sum": 14,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你专注的时候能很快完成任务，但有时容易被外界干扰",
+    "chineseTextDetail": "",
+    "score": 57
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ab",
+    "sum": 13,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你专注的时候能很快完成任务，但有时容易被外界干扰",
+    "chineseTextDetail": "",
+    "score": 47
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ac",
+    "sum": 12,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你专注的时候能很快完成任务，但有时容易被外界干扰",
+    "chineseTextDetail": "",
+    "score": 36
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ad",
+    "sum": 11,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 26
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ae",
+    "sum": 10,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 17
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5af",
+    "sum": 9,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 9
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b0",
+    "sum": 8,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b1",
+    "sum": 7,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b2",
+    "sum": 6,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b3",
+    "sum": 5,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b4",
+    "sum": 4,
+    "category": "Self-Discipline",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你有一点小小的拖延症，克服拖延症可以成为更完美的自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b5",
+    "sum": 20,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个谨慎的人，会考虑到各种情况来确保你的行动万无一失",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b6",
+    "sum": 19,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个谨慎的人，会考虑到各种情况来确保你的行动万无一失",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b7",
+    "sum": 18,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个谨慎的人，会考虑到各种情况来确保你的行动万无一失",
+    "chineseTextDetail": "",
+    "score": 87
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b8",
+    "sum": 17,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会花时间思考决定的正确性，但一旦有了目标就会立马行动",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5b9",
+    "sum": 16,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会花时间思考决定的正确性，但一旦有了目标就会立马行动",
+    "chineseTextDetail": "",
+    "score": 72
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ba",
+    "sum": 15,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会花时间思考决定的正确性，但一旦有了目标就会立马行动",
+    "chineseTextDetail": "",
+    "score": 64
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5bb",
+    "sum": 14,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会花时间思考决定的正确性，但一旦有了目标就会立马行动",
+    "chineseTextDetail": "",
+    "score": 56
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5bc",
+    "sum": 13,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你会花时间思考决定的正确性，但一旦有了目标就会立马行动",
+    "chineseTextDetail": "",
+    "score": 47
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5bd",
+    "sum": 12,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5be",
+    "sum": 11,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 30
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5bf",
+    "sum": 10,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 22
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c0",
+    "sum": 9,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 15
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c1",
+    "sum": 8,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 9
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c2",
+    "sum": 7,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c3",
+    "sum": 6,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c4",
+    "sum": 5,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c5",
+    "sum": 4,
+    "category": "Cautiousness",
+    "bigfive": "CONSCIENTIOUSNESS",
+    "textDetail": "你是一个凭“感觉”做事的人，不会因为顾忌后果而畏手畏脚",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c6",
+    "sum": 20,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你宽容、坦率又单纯，相信世界上还是好人多",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c7",
+    "sum": 19,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你宽容、坦率又单纯，相信世界上还是好人多",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c8",
+    "sum": 18,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你宽容、坦率又单纯，相信世界上还是好人多",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5c9",
+    "sum": 17,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人真诚，但不 “傻白甜”，能进行客观的判断避免受伤",
+    "chineseTextDetail": "",
+    "score": 86
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ca",
+    "sum": 16,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人真诚，但不 “傻白甜”，能进行客观的判断避免受伤",
+    "chineseTextDetail": "",
+    "score": 79
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5cb",
+    "sum": 15,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人真诚，但不 “傻白甜”，能进行客观的判断避免受伤",
+    "chineseTextDetail": "",
+    "score": 70
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5cc",
+    "sum": 14,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 61
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5cd",
+    "sum": 13,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 51
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ce",
+    "sum": 12,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 42
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5cf",
+    "sum": 11,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 32
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d0",
+    "sum": 10,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 24
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d1",
+    "sum": 9,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 16
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d2",
+    "sum": 8,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 9
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d3",
+    "sum": 7,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d4",
+    "sum": 6,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d5",
+    "sum": 5,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d6",
+    "sum": 4,
+    "category": "Trust",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你谨慎小心，对外在的人和事情经常保持怀疑的态度",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d7",
+    "sum": 20,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个正直坦率的人，真诚的性格让别人愿意亲近你",
+    "chineseTextDetail": "",
+    "score": 89
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d8",
+    "sum": 19,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个正直坦率的人，真诚的性格让别人愿意亲近你",
+    "chineseTextDetail": "",
+    "score": 81
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5d9",
+    "sum": 18,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个正直坦率的人，真诚的性格让别人愿意亲近你",
+    "chineseTextDetail": "",
+    "score": 72
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5da",
+    "sum": 17,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在熟人面前能完全袒露你自己，但在陌生人面前会更谨慎",
+    "chineseTextDetail": "",
+    "score": 61
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5db",
+    "sum": 16,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在熟人面前能完全袒露你自己，但在陌生人面前会更谨慎",
+    "chineseTextDetail": "",
+    "score": 50
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5dc",
+    "sum": 15,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在熟人面前能完全袒露你自己，但在陌生人面前会更谨慎",
+    "chineseTextDetail": "",
+    "score": 39
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5dd",
+    "sum": 14,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 29
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5de",
+    "sum": 13,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 19
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5df",
+    "sum": 12,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 11
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e0",
+    "sum": 11,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e1",
+    "sum": 10,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e2",
+    "sum": 9,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e3",
+    "sum": 8,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e4",
+    "sum": 7,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e5",
+    "sum": 6,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e6",
+    "sum": 5,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e7",
+    "sum": 4,
+    "category": "Morality",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你在别人眼中很高冷，但其实你只是自我保护意识比较强",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e8",
+    "sum": 20,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个热心肠的人，乐于助人",
+    "chineseTextDetail": "",
+    "score": 95
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5e9",
+    "sum": 19,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个热心肠的人，乐于助人",
+    "chineseTextDetail": "",
+    "score": 89
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ea",
+    "sum": 18,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个热心肠的人，乐于助人",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5eb",
+    "sum": 17,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个热心肠的人，乐于助人",
+    "chineseTextDetail": "",
+    "score": 69
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ec",
+    "sum": 16,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你不是一个自私的人，看到弱者需要帮助时会提供帮助",
+    "chineseTextDetail": "",
+    "score": 57
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ed",
+    "sum": 15,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你不是一个自私的人，看到弱者需要帮助时会提供帮助",
+    "chineseTextDetail": "",
+    "score": 45
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ee",
+    "sum": 14,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你不是一个自私的人，看到弱者需要帮助时会提供帮助",
+    "chineseTextDetail": "",
+    "score": 33
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ef",
+    "sum": 13,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 22
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f0",
+    "sum": 12,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 13
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f1",
+    "sum": 11,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 5
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f2",
+    "sum": 10,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f3",
+    "sum": 9,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f4",
+    "sum": 8,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f5",
+    "sum": 7,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f6",
+    "sum": 6,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f7",
+    "sum": 5,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f8",
+    "sum": 4,
+    "category": "Altruism",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你讨厌卷入到别人的麻烦中，因此常常保持与人的距离感",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5f9",
+    "sum": 20,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你尊重他人，不喜欢与人发生冲突，甚至会忽视自己的想法",
+    "chineseTextDetail": "",
+    "score": 93
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5fa",
+    "sum": 19,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你尊重他人，不喜欢与人发生冲突，甚至会忽视自己的想法",
+    "chineseTextDetail": "",
+    "score": 87
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5fb",
+    "sum": 18,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你尊重他人，不喜欢与人发生冲突，甚至会忽视自己的想法",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5fc",
+    "sum": 17,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你尊重他人，不喜欢与人发生冲突，甚至会忽视自己的想法",
+    "chineseTextDetail": "",
+    "score": 72
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5fd",
+    "sum": 16,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人温和，但并不会为了迎合他人而放弃自己的立场",
+    "chineseTextDetail": "",
+    "score": 63
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5fe",
+    "sum": 15,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人温和，但并不会为了迎合他人而放弃自己的立场",
+    "chineseTextDetail": "",
+    "score": 54
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b5ff",
+    "sum": 14,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人温和，但并不会为了迎合他人而放弃自己的立场",
+    "chineseTextDetail": "",
+    "score": 44
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b600",
+    "sum": 13,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你待人温和，但并不会为了迎合他人而放弃自己的立场",
+    "chineseTextDetail": "",
+    "score": 35
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b601",
+    "sum": 12,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 26
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b602",
+    "sum": 11,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 18
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b603",
+    "sum": 10,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 11
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b604",
+    "sum": 9,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 5
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b605",
+    "sum": 8,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b606",
+    "sum": 7,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b607",
+    "sum": 6,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b608",
+    "sum": 5,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b609",
+    "sum": 4,
+    "category": "Cooperation",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你独立自主，坚持主见，不会为了迎合别人而克制自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b60a",
+    "sum": 20,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b60b",
+    "sum": 19,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b60c",
+    "sum": 18,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 98
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b60d",
+    "sum": 17,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 95
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b60e",
+    "sum": 16,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 89
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b60f",
+    "sum": 15,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 82
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b610",
+    "sum": 14,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个谦逊的人，即便身处高位也不会看低别人",
+    "chineseTextDetail": "",
+    "score": 74
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b611",
+    "sum": 13,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你自信且谦虚，不会过分夸耀自己的能力也不会谦虚隐藏",
+    "chineseTextDetail": "",
+    "score": 65
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b612",
+    "sum": 12,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你自信且谦虚，不会过分夸耀自己的能力也不会谦虚隐藏",
+    "chineseTextDetail": "",
+    "score": 55
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b613",
+    "sum": 11,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你自信且谦虚，不会过分夸耀自己的能力也不会谦虚隐藏",
+    "chineseTextDetail": "",
+    "score": 45
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b614",
+    "sum": 10,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你自信且谦虚，不会过分夸耀自己的能力也不会谦虚隐藏",
+    "chineseTextDetail": "",
+    "score": 35
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b615",
+    "sum": 9,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你有充分的信心，敢张扬自己的能力，直接而又充满表达欲",
+    "chineseTextDetail": "",
+    "score": 26
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b616",
+    "sum": 8,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你有充分的信心，敢张扬自己的能力，直接而又充满表达欲",
+    "chineseTextDetail": "",
+    "score": 18
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b617",
+    "sum": 7,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你有充分的信心，敢张扬自己的能力，直接而又充满表达欲",
+    "chineseTextDetail": "",
+    "score": 11
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b618",
+    "sum": 6,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你有充分的信心，敢张扬自己的能力，直接而又充满表达欲",
+    "chineseTextDetail": "",
+    "score": 5
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b619",
+    "sum": 5,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你有充分的信心，敢张扬自己的能力，直接而又充满表达欲",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b61a",
+    "sum": 4,
+    "category": "Modesty",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你有充分的信心，敢张扬自己的能力，直接而又充满表达欲",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b61b",
+    "sum": 20,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心地善良且富有同情心，能给痛苦的人提供帮助",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b61c",
+    "sum": 19,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心地善良且富有同情心，能给痛苦的人提供帮助",
+    "chineseTextDetail": "",
+    "score": 95
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b61d",
+    "sum": 18,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心地善良且富有同情心，能给痛苦的人提供帮助",
+    "chineseTextDetail": "",
+    "score": 90
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b61e",
+    "sum": 17,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心地善良且富有同情心，能给痛苦的人提供帮助",
+    "chineseTextDetail": "",
+    "score": 82
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b61f",
+    "sum": 16,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心地善良且富有同情心，能给痛苦的人提供帮助",
+    "chineseTextDetail": "",
+    "score": 73
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b620",
+    "sum": 15,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心存善意，但并不是毫无原则的盲目善良，能客观的分析",
+    "chineseTextDetail": "",
+    "score": 63
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b621",
+    "sum": 14,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心存善意，但并不是毫无原则的盲目善良，能客观的分析",
+    "chineseTextDetail": "",
+    "score": 52
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b622",
+    "sum": 13,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你心存善意，但并不是毫无原则的盲目善良，能客观的分析",
+    "chineseTextDetail": "",
+    "score": 41
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b623",
+    "sum": 12,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 31
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b624",
+    "sum": 11,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 21
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b625",
+    "sum": 10,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 13
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b626",
+    "sum": 9,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 6
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b627",
+    "sum": 8,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 2
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b628",
+    "sum": 7,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b629",
+    "sum": 6,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b62a",
+    "sum": 5,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b62b",
+    "sum": 4,
+    "category": "Sympathy",
+    "bigfive": "AGREEABLENESS",
+    "textDetail": "你是一个理性的人，不会被情感左右，能客观的进行判断",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b62c",
+    "sum": 20,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你富有想象力，不满足世界的平淡无奇，幻想将其变得丰富多彩",
+    "chineseTextDetail": "",
+    "score": 89
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b62d",
+    "sum": 19,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你富有想象力，不满足世界的平淡无奇，幻想将其变得丰富多彩",
+    "chineseTextDetail": "",
+    "score": 81
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b62e",
+    "sum": 18,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你富有想象力，不满足世界的平淡无奇，幻想将其变得丰富多彩",
+    "chineseTextDetail": "",
+    "score": 72
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b62f",
+    "sum": 17,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是梦幻与现实的矛盾体，具备一定想象力又一定程度向现实屈服",
+    "chineseTextDetail": "",
+    "score": 61
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b630",
+    "sum": 16,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是梦幻与现实的矛盾体，具备一定想象力又一定程度向现实屈服",
+    "chineseTextDetail": "",
+    "score": 50
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b631",
+    "sum": 15,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是梦幻与现实的矛盾体，具备一定想象力又一定程度向现实屈服",
+    "chineseTextDetail": "",
+    "score": 39
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b632",
+    "sum": 14,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 28
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b633",
+    "sum": 13,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 19
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b634",
+    "sum": 12,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 11
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b635",
+    "sum": 11,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b636",
+    "sum": 10,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b637",
+    "sum": 9,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b638",
+    "sum": 8,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b639",
+    "sum": 7,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b63a",
+    "sum": 6,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b63b",
+    "sum": 5,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b63c",
+    "sum": 4,
+    "category": "Imagination",
+    "bigfive": "OPENNESS",
+    "textDetail": "你是一个现实主义者，一切着眼于现实，不会抱有不切实际的幻想",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b63d",
+    "sum": 20,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你艺术天赋极高，喜欢美好的事物，热衷一切与艺术相关的活动",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b63e",
+    "sum": 19,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你艺术天赋极高，喜欢美好的事物，热衷一切与艺术相关的活动",
+    "chineseTextDetail": "",
+    "score": 86
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b63f",
+    "sum": 18,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你艺术天赋极高，喜欢美好的事物，热衷一切与艺术相关的活动",
+    "chineseTextDetail": "",
+    "score": 78
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b640",
+    "sum": 17,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你艺术天赋极高，喜欢美好的事物，热衷一切与艺术相关的活动",
+    "chineseTextDetail": "",
+    "score": 69
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b641",
+    "sum": 16,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对艺术有一定兴趣，偶尔参加艺术相关的活动，以丰富生活",
+    "chineseTextDetail": "",
+    "score": 60
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b642",
+    "sum": 15,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对艺术有一定兴趣，偶尔参加艺术相关的活动，以丰富生活",
+    "chineseTextDetail": "",
+    "score": 50
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b643",
+    "sum": 14,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对艺术有一定兴趣，偶尔参加艺术相关的活动，以丰富生活",
+    "chineseTextDetail": "",
+    "score": 40
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b644",
+    "sum": 13,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 31
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b645",
+    "sum": 12,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 22
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b646",
+    "sum": 11,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 14
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b647",
+    "sum": 10,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 8
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b648",
+    "sum": 9,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 3
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b649",
+    "sum": 8,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b64a",
+    "sum": 7,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b64b",
+    "sum": 6,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b64c",
+    "sum": 5,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b64d",
+    "sum": 4,
+    "category": "Artistic Interests",
+    "bigfive": "OPENNESS",
+    "textDetail": "你可能对艺术不太感冒，对艺术活动不感兴趣，缺乏艺术审美观",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b64e",
+    "sum": 20,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你很敏感，容易感受到并愿意表露自己情绪，不管是喜怒哀乐",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b64f",
+    "sum": 19,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你很敏感，容易感受到并愿意表露自己情绪，不管是喜怒哀乐",
+    "chineseTextDetail": "",
+    "score": 91
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b650",
+    "sum": 18,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你很敏感，容易感受到并愿意表露自己情绪，不管是喜怒哀乐",
+    "chineseTextDetail": "",
+    "score": 84
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b651",
+    "sum": 17,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你很敏感，容易感受到并愿意表露自己情绪，不管是喜怒哀乐",
+    "chineseTextDetail": "",
+    "score": 75
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b652",
+    "sum": 16,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你会表露自己的情绪，并有所保留地与人分享",
+    "chineseTextDetail": "",
+    "score": 65
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b653",
+    "sum": 15,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你会表露自己的情绪，并有所保留地与人分享",
+    "chineseTextDetail": "",
+    "score": 54
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b654",
+    "sum": 14,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你会表露自己的情绪，并有所保留地与人分享",
+    "chineseTextDetail": "",
+    "score": 43
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b655",
+    "sum": 13,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 32
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b656",
+    "sum": 12,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 22
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b657",
+    "sum": 11,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 13
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b658",
+    "sum": 10,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 6
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b659",
+    "sum": 9,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 2
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b65a",
+    "sum": 8,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b65b",
+    "sum": 7,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b65c",
+    "sum": 6,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b65d",
+    "sum": 5,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b65e",
+    "sum": 4,
+    "category": "Emotionality",
+    "bigfive": "OPENNESS",
+    "textDetail": "你深藏不露，习惯忽略甚至隐藏自己的情绪，容易让人猜不透",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b65f",
+    "sum": 20,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你喜欢追求新鲜刺激，抗拒墨守成规和一成不变的生活",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b660",
+    "sum": 19,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你喜欢追求新鲜刺激，抗拒墨守成规和一成不变的生活",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b661",
+    "sum": 18,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你喜欢追求新鲜刺激，抗拒墨守成规和一成不变的生活",
+    "chineseTextDetail": "",
+    "score": 93
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b662",
+    "sum": 17,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你喜欢追求新鲜刺激，抗拒墨守成规和一成不变的生活",
+    "chineseTextDetail": "",
+    "score": 86
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b663",
+    "sum": 16,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你喜欢追求新鲜刺激，抗拒墨守成规和一成不变的生活",
+    "chineseTextDetail": "",
+    "score": 78
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b664",
+    "sum": 15,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你喜欢追求新鲜刺激，抗拒墨守成规和一成不变的生活",
+    "chineseTextDetail": "",
+    "score": 69
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b665",
+    "sum": 14,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你一定程度安于现状，但是又偶尔折腾一下尝试新鲜的事物",
+    "chineseTextDetail": "",
+    "score": 58
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b666",
+    "sum": 13,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你一定程度安于现状，但是又偶尔折腾一下尝试新鲜的事物",
+    "chineseTextDetail": "",
+    "score": 48
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b667",
+    "sum": 12,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你一定程度安于现状，但是又偶尔折腾一下尝试新鲜的事物",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b668",
+    "sum": 11,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 28
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b669",
+    "sum": 10,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 19
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b66a",
+    "sum": 9,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 11
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b66b",
+    "sum": 8,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 5
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b66c",
+    "sum": 7,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b66d",
+    "sum": 6,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b66e",
+    "sum": 5,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b66f",
+    "sum": 4,
+    "category": "Adventurousness",
+    "bigfive": "OPENNESS",
+    "textDetail": "你讨厌改变，喜欢熟悉的人和事，对突然改变会觉得不舒服",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b670",
+    "sum": 20,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你勤思考，热衷智力训练，全心拥抱新奇、不寻常的想法",
+    "chineseTextDetail": "",
+    "score": 87
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b671",
+    "sum": 19,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你勤思考，热衷智力训练，全心拥抱新奇、不寻常的想法",
+    "chineseTextDetail": "",
+    "score": 79
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b672",
+    "sum": 18,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你勤思考，热衷智力训练，全心拥抱新奇、不寻常的想法",
+    "chineseTextDetail": "",
+    "score": 70
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b673",
+    "sum": 17,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既愿意琢磨智力游戏，又喜欢与人交流",
+    "chineseTextDetail": "",
+    "score": 59
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b674",
+    "sum": 16,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既愿意琢磨智力游戏，又喜欢与人交流",
+    "chineseTextDetail": "",
+    "score": 48
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b675",
+    "sum": 15,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既愿意琢磨智力游戏，又喜欢与人交流",
+    "chineseTextDetail": "",
+    "score": 37
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b676",
+    "sum": 14,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 27
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b677",
+    "sum": 13,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 18
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b678",
+    "sum": 12,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 10
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b679",
+    "sum": 11,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b67a",
+    "sum": 10,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b67b",
+    "sum": 9,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b67c",
+    "sum": 8,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b67d",
+    "sum": 7,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b67e",
+    "sum": 6,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b67f",
+    "sum": 5,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b680",
+    "sum": 4,
+    "category": "Intellect",
+    "bigfive": "OPENNESS",
+    "textDetail": "你对智力训练不感冒，更热衷与人交流而不是琢磨各种想法",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b681",
+    "sum": 20,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b682",
+    "sum": 19,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b683",
+    "sum": 18,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b684",
+    "sum": 17,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 93
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b685",
+    "sum": 16,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 87
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b686",
+    "sum": 15,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 79
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b687",
+    "sum": 14,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你敢于并热衷挑战权威和传统，但是要注意不要走极端",
+    "chineseTextDetail": "",
+    "score": 71
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b688",
+    "sum": 13,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既不激进也不保守，在权威框架下追求一定的自由",
+    "chineseTextDetail": "",
+    "score": 62
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b689",
+    "sum": 12,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既不激进也不保守，在权威框架下追求一定的自由",
+    "chineseTextDetail": "",
+    "score": 53
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b68a",
+    "sum": 11,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既不激进也不保守，在权威框架下追求一定的自由",
+    "chineseTextDetail": "",
+    "score": 43
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b68b",
+    "sum": 10,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你既不激进也不保守，在权威框架下追求一定的自由",
+    "chineseTextDetail": "",
+    "score": 34
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b68c",
+    "sum": 9,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你拥护保守主义，喜欢遵从传统所带来的安全和稳定",
+    "chineseTextDetail": "",
+    "score": 25
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b68d",
+    "sum": 8,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你拥护保守主义，喜欢遵从传统所带来的安全和稳定",
+    "chineseTextDetail": "",
+    "score": 17
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b68e",
+    "sum": 7,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你拥护保守主义，喜欢遵从传统所带来的安全和稳定",
+    "chineseTextDetail": "",
+    "score": 10
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b68f",
+    "sum": 6,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你拥护保守主义，喜欢遵从传统所带来的安全和稳定",
+    "chineseTextDetail": "",
+    "score": 5
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b690",
+    "sum": 5,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你拥护保守主义，喜欢遵从传统所带来的安全和稳定",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b691",
+    "sum": 4,
+    "category": "Liberalism",
+    "bigfive": "OPENNESS",
+    "textDetail": "你拥护保守主义，喜欢遵从传统所带来的安全和稳定",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b692",
+    "sum": 20,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你待人真诚，容易结交朋友并建立亲密的关系",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b693",
+    "sum": 19,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你待人真诚，容易结交朋友并建立亲密的关系",
+    "chineseTextDetail": "",
+    "score": 94
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b694",
+    "sum": 18,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你待人真诚，容易结交朋友并建立亲密的关系",
+    "chineseTextDetail": "",
+    "score": 88
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b695",
+    "sum": 17,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你待人真诚，容易结交朋友并建立亲密的关系",
+    "chineseTextDetail": "",
+    "score": 82
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b696",
+    "sum": 16,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你待人真诚，容易结交朋友并建立亲密的关系",
+    "chineseTextDetail": "",
+    "score": 74
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b697",
+    "sum": 15,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你习惯与人保持一定的距离，处理朋友关系含蓄而得体",
+    "chineseTextDetail": "",
+    "score": 65
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b698",
+    "sum": 14,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你习惯与人保持一定的距离，处理朋友关系含蓄而得体",
+    "chineseTextDetail": "",
+    "score": 56
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b699",
+    "sum": 13,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你习惯与人保持一定的距离，处理朋友关系含蓄而得体",
+    "chineseTextDetail": "",
+    "score": 47
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b69a",
+    "sum": 12,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你习惯与人保持一定的距离，处理朋友关系含蓄而得体",
+    "chineseTextDetail": "",
+    "score": 37
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b69b",
+    "sum": 11,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 28
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b69c",
+    "sum": 10,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 20
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b69d",
+    "sum": 9,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 13
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b69e",
+    "sum": 8,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 7
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b69f",
+    "sum": 7,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 3
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a0",
+    "sum": 6,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a1",
+    "sum": 5,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a2",
+    "sum": 4,
+    "category": "Friendliness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你一般不会主动接触他人，对人比较冷淡和矜持",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a3",
+    "sum": 20,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a4",
+    "sum": 19,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a5",
+    "sum": 18,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a6",
+    "sum": 17,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a7",
+    "sum": 16,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 87
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a8",
+    "sum": 15,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6a9",
+    "sum": 14,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷社交，享受跟一群人待在一起消磨时光",
+    "chineseTextDetail": "",
+    "score": 72
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6aa",
+    "sum": 13,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你既喜欢交朋友但又喜欢独处并注重隐私",
+    "chineseTextDetail": "",
+    "score": 64
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ab",
+    "sum": 12,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你既喜欢交朋友但又喜欢独处并注重隐私",
+    "chineseTextDetail": "",
+    "score": 55
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ac",
+    "sum": 11,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你既喜欢交朋友但又喜欢独处并注重隐私",
+    "chineseTextDetail": "",
+    "score": 46
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ad",
+    "sum": 10,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你既喜欢交朋友但又喜欢独处并注重隐私",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ae",
+    "sum": 9,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你很注重隐私，不是不喜欢与人相处，只是有独处的需求",
+    "chineseTextDetail": "",
+    "score": 29
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6af",
+    "sum": 8,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你很注重隐私，不是不喜欢与人相处，只是有独处的需求",
+    "chineseTextDetail": "",
+    "score": 21
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b0",
+    "sum": 7,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你很注重隐私，不是不喜欢与人相处，只是有独处的需求",
+    "chineseTextDetail": "",
+    "score": 14
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b1",
+    "sum": 6,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你很注重隐私，不是不喜欢与人相处，只是有独处的需求",
+    "chineseTextDetail": "",
+    "score": 8
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b2",
+    "sum": 5,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你很注重隐私，不是不喜欢与人相处，只是有独处的需求",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b3",
+    "sum": 4,
+    "category": "Gregariousness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你很注重隐私，不是不喜欢与人相处，只是有独处的需求",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b4",
+    "sum": 20,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你乐于分享自己的想法，做事果断，常是团队的领导者",
+    "chineseTextDetail": "",
+    "score": 94
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b5",
+    "sum": 19,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你乐于分享自己的想法，做事果断，常是团队的领导者",
+    "chineseTextDetail": "",
+    "score": 88
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b6",
+    "sum": 18,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你乐于分享自己的想法，做事果断，常是团队的领导者",
+    "chineseTextDetail": "",
+    "score": 81
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b7",
+    "sum": 17,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你乐于分享自己的想法，做事果断，常是团队的领导者",
+    "chineseTextDetail": "",
+    "score": 73
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b8",
+    "sum": 16,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你有成为领导者的潜质，能妥善处理被交付的任务",
+    "chineseTextDetail": "",
+    "score": 63
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6b9",
+    "sum": 15,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你有成为领导者的潜质，能妥善处理被交付的任务",
+    "chineseTextDetail": "",
+    "score": 54
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ba",
+    "sum": 14,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你有成为领导者的潜质，能妥善处理被交付的任务",
+    "chineseTextDetail": "",
+    "score": 44
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6bb",
+    "sum": 13,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你有成为领导者的潜质，能妥善处理被交付的任务",
+    "chineseTextDetail": "",
+    "score": 34
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6bc",
+    "sum": 12,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 25
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6bd",
+    "sum": 11,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 17
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6be",
+    "sum": 10,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 10
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6bf",
+    "sum": 9,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c0",
+    "sum": 8,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c1",
+    "sum": 7,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c2",
+    "sum": 6,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c3",
+    "sum": 5,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c4",
+    "sum": 4,
+    "category": "Assertiveness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你的性格内向，不喜欢分享所思所想，习惯被领导",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c5",
+    "sum": 20,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c6",
+    "sum": 19,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c7",
+    "sum": 18,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 98
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c8",
+    "sum": 17,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 94
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6c9",
+    "sum": 16,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 88
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ca",
+    "sum": 15,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 80
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6cb",
+    "sum": 14,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你精力充沛，充满干劲，热衷并享受快节奏的忙碌生活",
+    "chineseTextDetail": "",
+    "score": 70
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6cc",
+    "sum": 13,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷事业工作，但也偶尔停下来悠闲度日",
+    "chineseTextDetail": "",
+    "score": 60
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6cd",
+    "sum": 12,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷事业工作，但也偶尔停下来悠闲度日",
+    "chineseTextDetail": "",
+    "score": 49
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ce",
+    "sum": 11,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你热衷事业工作，但也偶尔停下来悠闲度日",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6cf",
+    "sum": 10,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 27
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d0",
+    "sum": 9,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 18
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d1",
+    "sum": 8,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 10
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d2",
+    "sum": 7,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d3",
+    "sum": 6,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d4",
+    "sum": 5,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d5",
+    "sum": 4,
+    "category": "Activity Level",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不太喜欢忙碌快节奏的生活，更喜欢轻松悠闲地过日子",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d6",
+    "sum": 20,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你喜欢冒险、喧闹的生活，对刺激有趣的事情欲罢不能",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d7",
+    "sum": 19,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你喜欢冒险、喧闹的生活，对刺激有趣的事情欲罢不能",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d8",
+    "sum": 18,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你喜欢冒险、喧闹的生活，对刺激有趣的事情欲罢不能",
+    "chineseTextDetail": "",
+    "score": 91
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6d9",
+    "sum": 17,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你喜欢冒险、喧闹的生活，对刺激有趣的事情欲罢不能",
+    "chineseTextDetail": "",
+    "score": 84
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6da",
+    "sum": 16,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你喜欢冒险、喧闹的生活，对刺激有趣的事情欲罢不能",
+    "chineseTextDetail": "",
+    "score": 76
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6db",
+    "sum": 15,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你偶尔会尝试冒险刺激的事物，在安静的环境中也很舒心",
+    "chineseTextDetail": "",
+    "score": 66
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6dc",
+    "sum": 14,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你偶尔会尝试冒险刺激的事物，在安静的环境中也很舒心",
+    "chineseTextDetail": "",
+    "score": 56
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6dd",
+    "sum": 13,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你偶尔会尝试冒险刺激的事物，在安静的环境中也很舒心",
+    "chineseTextDetail": "",
+    "score": 46
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6de",
+    "sum": 12,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你偶尔会尝试冒险刺激的事物，在安静的环境中也很舒心",
+    "chineseTextDetail": "",
+    "score": 36
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6df",
+    "sum": 11,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 26
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e0",
+    "sum": 10,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 17
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e1",
+    "sum": 9,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 10
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e2",
+    "sum": 8,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e3",
+    "sum": 7,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e4",
+    "sum": 6,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e5",
+    "sum": 5,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e6",
+    "sum": 4,
+    "category": "Excitement-Seeking",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你不喜欢嘈杂、骚乱的环境，对刺激的事物能避则避",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e7",
+    "sum": 20,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你是一个充满正能量的人，看事乐观积极，对人热情主动",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e8",
+    "sum": 19,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你是一个充满正能量的人，看事乐观积极，对人热情主动",
+    "chineseTextDetail": "",
+    "score": 90
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6e9",
+    "sum": 18,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你是一个充满正能量的人，看事乐观积极，对人热情主动",
+    "chineseTextDetail": "",
+    "score": 84
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ea",
+    "sum": 17,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你是一个充满正能量的人，看事乐观积极，对人热情主动",
+    "chineseTextDetail": "",
+    "score": 76
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6eb",
+    "sum": 16,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你性格比较平和淡定，给人感觉既不消糜也不会特别夸张",
+    "chineseTextDetail": "",
+    "score": 66
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ec",
+    "sum": 15,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你性格比较平和淡定，给人感觉既不消糜也不会特别夸张",
+    "chineseTextDetail": "",
+    "score": 57
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ed",
+    "sum": 14,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你性格比较平和淡定，给人感觉既不消糜也不会特别夸张",
+    "chineseTextDetail": "",
+    "score": 46
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ee",
+    "sum": 13,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你性格比较平和淡定，给人感觉既不消糜也不会特别夸张",
+    "chineseTextDetail": "",
+    "score": 37
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ef",
+    "sum": 12,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 27
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f0",
+    "sum": 11,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 18
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f1",
+    "sum": 10,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 11
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f2",
+    "sum": 9,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 5
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f3",
+    "sum": 8,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f4",
+    "sum": 7,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f5",
+    "sum": 6,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f6",
+    "sum": 5,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f7",
+    "sum": 4,
+    "category": "Cheerfulness",
+    "bigfive": "EXTRAVERSION",
+    "textDetail": "你对事对人情绪不高，给人感觉精力不足，要开心一点哦",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f8",
+    "sum": 20,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6f9",
+    "sum": 19,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6fa",
+    "sum": 18,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6fb",
+    "sum": 17,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 93
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6fc",
+    "sum": 16,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 88
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6fd",
+    "sum": 15,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 81
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6fe",
+    "sum": 14,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是一个容易焦虑的人，可能会因为某些特定的环境恐惧",
+    "chineseTextDetail": "",
+    "score": 73
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b6ff",
+    "sum": 13,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有时会觉得紧张不安，但也有能力将焦虑消除掉",
+    "chineseTextDetail": "",
+    "score": 64
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b700",
+    "sum": 12,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有时会觉得紧张不安，但也有能力将焦虑消除掉",
+    "chineseTextDetail": "",
+    "score": 55
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b701",
+    "sum": 11,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有时会觉得紧张不安，但也有能力将焦虑消除掉",
+    "chineseTextDetail": "",
+    "score": 45
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b702",
+    "sum": 10,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有时会觉得紧张不安，但也有能力将焦虑消除掉",
+    "chineseTextDetail": "",
+    "score": 36
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b703",
+    "sum": 9,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很淡定，总是处事不乱，无所畏惧，不知焦虑为何物",
+    "chineseTextDetail": "",
+    "score": 27
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b704",
+    "sum": 8,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很淡定，总是处事不乱，无所畏惧，不知焦虑为何物",
+    "chineseTextDetail": "",
+    "score": 19
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b705",
+    "sum": 7,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很淡定，总是处事不乱，无所畏惧，不知焦虑为何物",
+    "chineseTextDetail": "",
+    "score": 12
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b706",
+    "sum": 6,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很淡定，总是处事不乱，无所畏惧，不知焦虑为何物",
+    "chineseTextDetail": "",
+    "score": 6
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b707",
+    "sum": 5,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很淡定，总是处事不乱，无所畏惧，不知焦虑为何物",
+    "chineseTextDetail": "",
+    "score": 2
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b708",
+    "sum": 4,
+    "category": "Anxiety",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很淡定，总是处事不乱，无所畏惧，不知焦虑为何物",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b709",
+    "sum": 20,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b70a",
+    "sum": 19,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b70b",
+    "sum": 18,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 93
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b70c",
+    "sum": 17,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 88
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b70d",
+    "sum": 16,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 82
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b70e",
+    "sum": 15,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 75
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b70f",
+    "sum": 14,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你易怒，尤其当事情没有按预期发展或感到被不公平对待时",
+    "chineseTextDetail": "",
+    "score": 68
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b710",
+    "sum": 13,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你通常不会动怒，但是也会因为不爽而生气",
+    "chineseTextDetail": "",
+    "score": 60
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b711",
+    "sum": 12,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你通常不会动怒，但是也会因为不爽而生气",
+    "chineseTextDetail": "",
+    "score": 52
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b712",
+    "sum": 11,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你通常不会动怒，但是也会因为不爽而生气",
+    "chineseTextDetail": "",
+    "score": 43
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b713",
+    "sum": 10,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你通常不会动怒，但是也会因为不爽而生气",
+    "chineseTextDetail": "",
+    "score": 35
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b714",
+    "sum": 9,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你性格很随和，不轻易发怒，不会因为大小事情轻易生气",
+    "chineseTextDetail": "",
+    "score": 27
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b715",
+    "sum": 8,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你性格很随和，不轻易发怒，不会因为大小事情轻易生气",
+    "chineseTextDetail": "",
+    "score": 20
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b716",
+    "sum": 7,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你性格很随和，不轻易发怒，不会因为大小事情轻易生气",
+    "chineseTextDetail": "",
+    "score": 14
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b717",
+    "sum": 6,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你性格很随和，不轻易发怒，不会因为大小事情轻易生气",
+    "chineseTextDetail": "",
+    "score": 8
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b718",
+    "sum": 5,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你性格很随和，不轻易发怒，不会因为大小事情轻易生气",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b719",
+    "sum": 4,
+    "category": "Anger",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你性格很随和，不轻易发怒，不会因为大小事情轻易生气",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b71a",
+    "sum": 20,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b71b",
+    "sum": 19,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b71c",
+    "sum": 18,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 98
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b71d",
+    "sum": 17,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 95
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b71e",
+    "sum": 16,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 91
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b71f",
+    "sum": 15,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 86
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b720",
+    "sum": 14,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 79
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b721",
+    "sum": 13,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你容易受环境的影响而变得忧郁，时常感到沮丧气馁",
+    "chineseTextDetail": "",
+    "score": 72
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b722",
+    "sum": 12,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你时而乐观时而忧郁，给人一种时而太阳时而阴雨的感觉",
+    "chineseTextDetail": "",
+    "score": 63
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b723",
+    "sum": 11,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你时而乐观时而忧郁，给人一种时而太阳时而阴雨的感觉",
+    "chineseTextDetail": "",
+    "score": 55
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b724",
+    "sum": 10,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你时而乐观时而忧郁，给人一种时而太阳时而阴雨的感觉",
+    "chineseTextDetail": "",
+    "score": 46
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b725",
+    "sum": 9,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你时而乐观时而忧郁，给人一种时而太阳时而阴雨的感觉",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b726",
+    "sum": 8,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你天生乐观，不会轻易因为不好的环境或事情而难过",
+    "chineseTextDetail": "",
+    "score": 30
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b727",
+    "sum": 7,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你天生乐观，不会轻易因为不好的环境或事情而难过",
+    "chineseTextDetail": "",
+    "score": 22
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b728",
+    "sum": 6,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你天生乐观，不会轻易因为不好的环境或事情而难过",
+    "chineseTextDetail": "",
+    "score": 15
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b729",
+    "sum": 5,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你天生乐观，不会轻易因为不好的环境或事情而难过",
+    "chineseTextDetail": "",
+    "score": 9
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b72a",
+    "sum": 4,
+    "category": "Depression",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你天生乐观，不会轻易因为不好的环境或事情而难过",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b72b",
+    "sum": 20,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很在意别人的看法，别人的拒绝和嘲笑常让你不舒服",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b72c",
+    "sum": 19,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很在意别人的看法，别人的拒绝和嘲笑常让你不舒服",
+    "chineseTextDetail": "",
+    "score": 98
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b72d",
+    "sum": 18,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很在意别人的看法，别人的拒绝和嘲笑常让你不舒服",
+    "chineseTextDetail": "",
+    "score": 95
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b72e",
+    "sum": 17,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很在意别人的看法，别人的拒绝和嘲笑常让你不舒服",
+    "chineseTextDetail": "",
+    "score": 89
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b72f",
+    "sum": 16,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很在意别人的看法，别人的拒绝和嘲笑常让你不舒服",
+    "chineseTextDetail": "",
+    "score": 83
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b730",
+    "sum": 15,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很在意别人的看法，别人的拒绝和嘲笑常让你不舒服",
+    "chineseTextDetail": "",
+    "score": 75
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b731",
+    "sum": 14,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会很在意别人的看法，但是偶尔会感到不舒服",
+    "chineseTextDetail": "",
+    "score": 67
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b732",
+    "sum": 13,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会很在意别人的看法，但是偶尔会感到不舒服",
+    "chineseTextDetail": "",
+    "score": 58
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b733",
+    "sum": 12,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会很在意别人的看法，但是偶尔会感到不舒服",
+    "chineseTextDetail": "",
+    "score": 48
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b734",
+    "sum": 11,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会很在意别人的看法，但是偶尔会感到不舒服",
+    "chineseTextDetail": "",
+    "score": 39
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b735",
+    "sum": 10,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 30
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b736",
+    "sum": 9,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 22
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b737",
+    "sum": 8,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 15
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b738",
+    "sum": 7,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 8
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b739",
+    "sum": 6,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 4
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b73a",
+    "sum": 5,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b73b",
+    "sum": 4,
+    "category": "Self-Consciousness",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你不会因为别人的看法和评判感到紧张，很有主见",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b73c",
+    "sum": 20,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b73d",
+    "sum": 19,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b73e",
+    "sum": 18,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 96
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b73f",
+    "sum": 17,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 91
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b740",
+    "sum": 16,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 85
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b741",
+    "sum": 15,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 77
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b742",
+    "sum": 14,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你是及时行乐主义者，热衷追求短暂的快乐和短期的回报",
+    "chineseTextDetail": "",
+    "score": 68
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b743",
+    "sum": 13,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你会及时行乐，但也不会过于放纵自己，相对克制",
+    "chineseTextDetail": "",
+    "score": 58
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b744",
+    "sum": 12,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你会及时行乐，但也不会过于放纵自己，相对克制",
+    "chineseTextDetail": "",
+    "score": 48
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b745",
+    "sum": 11,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你会及时行乐，但也不会过于放纵自己，相对克制",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b746",
+    "sum": 10,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 28
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b747",
+    "sum": 9,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 19
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b748",
+    "sum": 8,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 12
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b749",
+    "sum": 7,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 6
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b74a",
+    "sum": 6,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 2
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b74b",
+    "sum": 5,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b74c",
+    "sum": 4,
+    "category": "Immoderation",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你很佛系，不会因为诱惑而放纵自己",
+    "chineseTextDetail": "",
+    "score": 1
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b74d",
+    "sum": 20,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b74e",
+    "sum": 19,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b74f",
+    "sum": 18,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b750",
+    "sum": 17,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b751",
+    "sum": 16,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 99
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b752",
+    "sum": 15,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 97
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b753",
+    "sum": 14,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 92
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b754",
+    "sum": 13,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 85
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b755",
+    "sum": 12,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 77
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b756",
+    "sum": 11,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "当感受到压力或被胁迫时，你容易感到恐慌和无助",
+    "chineseTextDetail": "",
+    "score": 68
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b757",
+    "sum": 10,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有一定的抗压能力，但有时候过于高压会令你无助",
+    "chineseTextDetail": "",
+    "score": 58
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b758",
+    "sum": 9,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有一定的抗压能力，但有时候过于高压会令你无助",
+    "chineseTextDetail": "",
+    "score": 48
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b759",
+    "sum": 8,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你有一定的抗压能力，但有时候过于高压会令你无助",
+    "chineseTextDetail": "",
+    "score": 38
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b75a",
+    "sum": 7,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你的抗压能力很强，永远泰然自若，充满自信",
+    "chineseTextDetail": "",
+    "score": 28
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b75b",
+    "sum": 6,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你的抗压能力很强，永远泰然自若，充满自信",
+    "chineseTextDetail": "",
+    "score": 19
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b75c",
+    "sum": 5,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你的抗压能力很强，永远泰然自若，充满自信",
+    "chineseTextDetail": "",
+    "score": 12
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b75d",
+    "sum": 4,
+    "category": "Vulnerability",
+    "bigfive": "NEUROTICISM",
+    "textDetail": "你的抗压能力很强，永远泰然自若，充满自信",
+    "chineseTextDetail": "",
+    "score": 6
+  }
+]

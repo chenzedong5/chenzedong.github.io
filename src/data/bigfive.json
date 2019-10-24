@@ -1,0 +1,1127 @@
+[
+  {
+    "_id": "5c0a61ed16bac7899792b55b",
+    "name": "Conscientiousness",
+    "category": "性格",
+    "chineseName": "尽责性",
+    "img": "psy/test/jinzexing.jpg",
+    "childCategory": [
+      {
+        "testList": [
+          {
+            "text": "Like to tidy up.",
+            "num": 10,
+            "key": 1,
+            "categoryName": "Orderliness",
+            "chineseText": "喜欢整理"
+          },
+          {
+            "text": "Often forget to put things back in their proper place.",
+            "num": 40,
+            "key": -1,
+            "categoryName": "Orderliness",
+            "chineseText": "经常忘记把东西放回原处"
+          },
+          {
+            "text": "Leave a mess in my room.",
+            "num": 70,
+            "key": -1,
+            "categoryName": "Orderliness",
+            "chineseText": "自己的房间很乱"
+          },
+          {
+            "text": "Leave my belongings around.",
+            "num": 100,
+            "key": -1,
+            "categoryName": "Orderliness",
+            "chineseText": "个人物品到处放"
+          }
+        ],
+        "name": "Orderliness",
+        "chineseName": "有序性",
+        "detail": "得分高的人做事井然有序。他们喜欢遵循流程和安排，坚持列任务清单和制定计划。而得分较低的人则时常做事闲散，没有安排。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Keep my promises.",
+            "num": 15,
+            "key": 1,
+            "categoryName": "Dutifulness",
+            "chineseText": "守信"
+          },
+          {
+            "text": "Tell the truth.",
+            "num": 45,
+            "key": 1,
+            "categoryName": "Dutifulness",
+            "chineseText": "说真话"
+          },
+          {
+            "text": "Break rules.",
+            "num": 75,
+            "key": -1,
+            "categoryName": "Dutifulness",
+            "chineseText": "违规"
+          },
+          {
+            "text": "Break my promises.",
+            "num": 105,
+            "key": -1,
+            "categoryName": "Dutifulness",
+            "chineseText": "不守信"
+          }
+        ],
+        "name": "Dutifulness",
+        "chineseName": "责任感",
+        "detail": "责任感反映了人的责任心。得分高的人道德责任心强；低分者相反，少有规则和条例可以约束他们，常被认为不可靠和不负责任。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Work hard.",
+            "num": 20,
+            "key": 1,
+            "categoryName": "Achievement-Striving",
+            "chineseText": "工作努力"
+          },
+          {
+            "text": "Do more than what's expected of me.",
+            "num": 50,
+            "key": 1,
+            "categoryName": "Achievement-Striving",
+            "chineseText": "比预期的做得更多"
+          },
+          {
+            "text": "Do just enough work to get by.",
+            "num": 80,
+            "key": -1,
+            "categoryName": "Achievement-Striving",
+            "chineseText": "仅完成既定的工作，过得去就好"
+          },
+          {
+            "text": "Put little time and effort into my work.",
+            "num": 110,
+            "key": -1,
+            "categoryName": "Achievement-Striving",
+            "chineseText": "在工作上花费很少时间与精力"
+          }
+        ],
+        "name": "Achievement-Striving",
+        "chineseName": "逐利心",
+        "detail": "得分高的人往往努力追求卓越。渴望被认可的动力驱使他们不管努力实现高目标。他们清晰自己的人生方向，但特别高分的人可能会因为执念而令他们沉迷于工作。低分者对工作仅以完成最低要求为目标，会被认为比较懒惰。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Am always prepared.",
+            "num": 25,
+            "key": 1,
+            "categoryName": "Self-Discipline",
+            "chineseText": "时刻准备着"
+          },
+          {
+            "text": "Carry out my plans.",
+            "num": 55,
+            "key": 1,
+            "categoryName": "Self-Discipline",
+            "chineseText": "实践计划"
+          },
+          {
+            "text": "Waste my time.",
+            "num": 85,
+            "key": -1,
+            "categoryName": "Self-Discipline",
+            "chineseText": "浪费时间"
+          },
+          {
+            "text": "Have difficulty starting tasks.",
+            "num": 115,
+            "key": -1,
+            "categoryName": "Self-Discipline",
+            "chineseText": "很难开始任务"
+          }
+        ],
+        "name": "Self-Discipline",
+        "chineseName": "自制力",
+        "detail": "自律也被称为自制力，指坚持克服困难完成困难任务的能力。高分者能够克服不愿开始任务的心理障碍，并且在干扰存在的情况下坚持完成任务。而缺乏自律的人，则会因为拖延症和糟糕的跟进能力而迟迟无法完成任务，哪怕是他们非常想完成的任务。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Jump into things without thinking.",
+            "num": 30,
+            "key": -1,
+            "categoryName": "Cautiousness",
+            "chineseText": "不假思索便开始做事情"
+          },
+          {
+            "text": "Make rash decisions.",
+            "num": 60,
+            "key": -1,
+            "categoryName": "Cautiousness",
+            "chineseText": "草率做决定"
+          },
+          {
+            "text": "Rush into things.",
+            "num": 90,
+            "key": -1,
+            "categoryName": "Cautiousness",
+            "chineseText": "仓促行事"
+          },
+          {
+            "text": "Act without thinking.",
+            "num": 120,
+            "key": -1,
+            "categoryName": "Cautiousness",
+            "chineseText": "行事不假思索"
+          }
+        ],
+        "name": "Cautiousness",
+        "chineseName": "谨慎性",
+        "detail": "谨慎指的是在行动前仔细考虑各种可能性的心理或倾向。谨慎这部分得分高的人需要花时间去做决定。得分低的人经常说或做直接浮现在脑海中的事情，不会深入考虑后再行动，更不会思考备选方案和这些备选方案可能产生的后果。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Complete tasks successfully.",
+            "num": 5,
+            "key": 1,
+            "categoryName": "Self-Efficacy",
+            "chineseText": "成功完成任务"
+          },
+          {
+            "text": "Excel in what I do.",
+            "num": 35,
+            "key": 1,
+            "categoryName": "Self-Efficacy",
+            "chineseText": "对负责的事情擅长"
+          },
+          {
+            "text": "Handle tasks smoothly.",
+            "num": 65,
+            "key": 1,
+            "categoryName": "Self-Efficacy",
+            "chineseText": "处理任务比较顺利"
+          },
+          {
+            "text": "Know how to get things done.",
+            "num": 95,
+            "key": 1,
+            "categoryName": "Self-Efficacy",
+            "chineseText": "知道如何完成事情"
+          }
+        ],
+        "name": "Self-Efficacy",
+        "chineseName": "自我效能",
+        "detail": "自我效能感指的是对自己完成事情的能力的自信。高分者认为他们拥有获得成功所必需的智力(常识)、动力和自我控制能力。得分较低的人感觉无能，他们可能觉得自己无法控制自己的生活。"
+      }
+    ],
+    "persons": 939,
+    "thirdTitle": "在他人眼中你是个具有责任心，做事稳妥的人吗？你的责任感足以让你自豪吗？做个测试，看看你的责任感有多好。",
+    "secondTitle": "尽责性考察我们控制、管理和调节自身冲动的能力，包括能力、条理性、责任感、追求成就、自律以及审慎六个维度。",
+    "pTitle": "大五人格",
+    "news": false,
+    "id": "5c0a61ed16bac7899792b55b"
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b55c",
+    "name": "Agreeableness",
+    "category": "性格",
+    "chineseName": "宜人性",
+    "img": "psy/test/yirenxing.jpg",
+    "childCategory": [
+      {
+        "testList": [
+          {
+            "text": "Use others for my own ends.",
+            "num": 9,
+            "key": -1,
+            "categoryName": "Morality",
+            "chineseText": "利用他人来实现自己的目标"
+          },
+          {
+            "text": "Cheat to get ahead.",
+            "num": 39,
+            "key": -1,
+            "categoryName": "Morality",
+            "chineseText": "靠欺骗获得成功或取得进步"
+          },
+          {
+            "text": "Take advantage of others.",
+            "num": 69,
+            "key": -1,
+            "categoryName": "Morality",
+            "chineseText": "利用他人"
+          },
+          {
+            "text": "Obstruct others' plans.",
+            "num": 99,
+            "key": -1,
+            "categoryName": "Morality",
+            "chineseText": "阻碍他人实现计划"
+          }
+        ],
+        "name": "Morality",
+        "chineseName": "品行道德",
+        "detail": "品行道德分高者认为在和别人打交道时没有必要伪装或操纵，因此他们表现正直、坦率和真诚。得分低的人则认为在社会关系中一定程度的欺骗是必要的。人们发现，与品行道德分高者联系起来相对容易，而与得分较低者联系则比较困难。应该清楚地指出，得分低的人并非无原则或不道德;\n    他们只是更谨慎，更不愿意公开披露全部真相。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Love to help others.",
+            "num": 14,
+            "key": 1,
+            "categoryName": "Altruism",
+            "chineseText": "乐于助人"
+          },
+          {
+            "text": "Am concerned about others.",
+            "num": 44,
+            "key": 1,
+            "categoryName": "Altruism",
+            "chineseText": "关心他人"
+          },
+          {
+            "text": "Am indifferent to the feelings of others.",
+            "num": 74,
+            "key": -1,
+            "categoryName": "Altruism",
+            "chineseText": "漠视他人感受"
+          },
+          {
+            "text": "Take no time for others.",
+            "num": 104,
+            "key": -1,
+            "categoryName": "Altruism",
+            "chineseText": "不愿意在别人身上花时间"
+          }
+        ],
+        "name": "Altruism",
+        "chineseName": "利他主义",
+        "detail": "无私的人发现帮助别人是一种真正的回报。因此，他们通常愿意帮助那些有需要的人。利他主义者发现为别人做事是一种自我实现而不是自我牺牲。得分低的人并不特别喜欢帮助那些需要帮助的人。被请求帮助感觉像是一种强迫，而不是自我实现的机会。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Love a good fight.",
+            "num": 19,
+            "key": -1,
+            "categoryName": "Cooperation",
+            "chineseText": "好斗心强"
+          },
+          {
+            "text": "Yell at people.",
+            "num": 49,
+            "key": -1,
+            "categoryName": "Cooperation",
+            "chineseText": "冲别人大吼大叫"
+          },
+          {
+            "text": "Insult people.",
+            "num": 79,
+            "key": -1,
+            "categoryName": "Cooperation",
+            "chineseText": "羞辱他人"
+          },
+          {
+            "text": "Get back at others.",
+            "num": 109,
+            "key": -1,
+            "categoryName": "Cooperation",
+            "chineseText": "报复他人"
+          }
+        ],
+        "name": "Cooperation",
+        "chineseName": "合作",
+        "detail": "得分高的人不喜欢对抗，他们愿意妥协甚至牺牲自己的利益需求去与人友好相处。而得分较低者则可能通过恐吓或胁迫别人以达到自己的目的。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Believe that I am better than others.",
+            "num": 24,
+            "key": -1,
+            "categoryName": "Modesty",
+            "chineseText": "自信自己比别人优秀"
+          },
+          {
+            "text": "Think highly of myself.",
+            "num": 54,
+            "key": -1,
+            "categoryName": "Modesty",
+            "chineseText": "自我评价很高"
+          },
+          {
+            "text": "Have a high opinion of myself.",
+            "num": 84,
+            "key": -1,
+            "categoryName": "Modesty",
+            "chineseText": "自我认识很好"
+          },
+          {
+            "text": "Boast about my virtues.",
+            "num": 114,
+            "key": -1,
+            "categoryName": "Modesty",
+            "chineseText": "夸耀自己的优点"
+          }
+        ],
+        "name": "Modesty",
+        "chineseName": "谦虚",
+        "detail": "高分者不喜欢声称自己比别人好。在某些情况下，这种态度可能源于缺乏自信或自尊。尽管如此，一些自尊心强的人觉得不谦虚是不体面的。那些愿意把自己描述成高人一等的人，往往会被其他人认为傲慢自大，令人讨厌。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Sympathize with the homeless.",
+            "num": 29,
+            "key": 1,
+            "categoryName": "Sympathy",
+            "chineseText": "同情流浪者"
+          },
+          {
+            "text": "Feel sympathy for those who are worse off than myself.",
+            "num": 59,
+            "key": 1,
+            "categoryName": "Sympathy",
+            "chineseText": "同情比自己贫穷的人（或境遇比自己差的人）"
+          },
+          {
+            "text": "Am not interested in other people's problems.",
+            "num": 89,
+            "key": -1,
+            "categoryName": "Sympathy",
+            "chineseText": "对别人遭遇的问题不感兴趣"
+          },
+          {
+            "text": "Try not to think about the needy.",
+            "num": 119,
+            "key": -1,
+            "categoryName": "Sympathy",
+            "chineseText": "不为贫穷的人考虑"
+          }
+        ],
+        "name": "Sympathy",
+        "chineseName": "同情心",
+        "detail": "得分高的人都是心地善良、富有同情心的人。他们以间接的方式感受他人的痛苦，并心生同情。得分低的人不会被他人的痛苦强烈影响。他们以基于理性做出客观判断为荣，更关注的是真理和公正，而非怜悯。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Trust others.",
+            "num": 4,
+            "key": 1,
+            "categoryName": "Trust",
+            "chineseText": "相信别人"
+          },
+          {
+            "text": "Believe that others have good intentions.",
+            "num": 34,
+            "key": 1,
+            "categoryName": "Trust",
+            "chineseText": "相信别人心怀善意"
+          },
+          {
+            "text": "Trust what people say.",
+            "num": 64,
+            "key": 1,
+            "categoryName": "Trust",
+            "chineseText": "相信别人的话"
+          },
+          {
+            "text": "Distrust people.",
+            "num": 94,
+            "key": -1,
+            "categoryName": "Trust",
+            "chineseText": "不信任他人"
+          }
+        ],
+        "name": "Trust",
+        "chineseName": "信任",
+        "detail": "一个容易相信别人的人会认为大多数人都是公平的，诚实的，有良好的意图。不轻易信任别人的人则认为别人是自私的、狡猾的，有潜在的危险。"
+      }
+    ],
+    "persons": 982,
+    "thirdTitle": "想知道自己有多让人喜欢吗？这个测试告诉你答案！",
+    "secondTitle": "宜人性测试考察的是你对于他人所持有的态度，具有信任、利他、直率、依从、谦虚、移情等特质，通常表现在对社会的亲和力，与他人的合作水平，让人喜欢的能力等方面。",
+    "pTitle": "大五人格",
+    "news": false,
+    "id": "5c0a61ed16bac7899792b55c"
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b55d",
+    "name": "Openness",
+    "category": "性格",
+    "chineseName": "开放性",
+    "img": "psy/test/kaifang.jpg",
+    "childCategory": [
+      {
+        "testList": [
+          {
+            "text": "Have a vivid imagination.",
+            "num": 3,
+            "key": 1,
+            "categoryName": "Imagination",
+            "chineseText": "想象力生动活跃"
+          },
+          {
+            "text": "Enjoy wild flights of fantasy.",
+            "num": 33,
+            "key": 1,
+            "categoryName": "Imagination",
+            "chineseText": "享受天马行空的过程"
+          },
+          {
+            "text": "Love to daydream.",
+            "num": 63,
+            "key": 1,
+            "categoryName": "Imagination",
+            "chineseText": "喜欢做白日梦"
+          },
+          {
+            "text": "Like to get lost in thought.",
+            "num": 93,
+            "key": 1,
+            "categoryName": "Imagination",
+            "chineseText": "喜欢思考并沉醉其中"
+          }
+        ],
+        "name": "Imagination",
+        "chineseName": "想象力",
+        "detail": "对于富有想象力的人来说，现实世界往往过于平淡无奇。高分者会利用幻想来创造一个更丰富、更有趣的世界。得分低的人更着眼于现实而不是幻想。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Believe in the importance of art.",
+            "num": 8,
+            "key": 1,
+            "categoryName": "Artistic Interests",
+            "chineseText": "坚信艺术的重要性"
+          },
+          {
+            "text": "See beauty in things that others might not notice.",
+            "num": 38,
+            "key": 1,
+            "categoryName": "Artistic Interests",
+            "chineseText": "发现别人意识不到的美"
+          },
+          {
+            "text": "Do not like poetry.",
+            "num": 68,
+            "key": -1,
+            "categoryName": "Artistic Interests",
+            "chineseText": "不喜欢诗歌"
+          },
+          {
+            "text": "Do not enjoy going to art museums.",
+            "num": 98,
+            "key": -1,
+            "categoryName": "Artistic Interests",
+            "chineseText": "不喜欢参观艺术博物馆"
+          }
+        ],
+        "name": "Artistic Interests",
+        "chineseName": "艺术兴趣",
+        "detail": "高分者热爱美好的事物，无论是艺术还是自然方面。他们很容易参与和融入艺术和自然事件。并不是所有热衷美的人都接受过艺术训练或具备天赋，尽管他们中的许多人都经历过。这部分主要测试人对自然和艺术美好事物的感兴趣程度。得分低的人缺乏审美敏感度和对艺术的兴趣。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Experience my emotions intensely.",
+            "num": 13,
+            "key": 1,
+            "categoryName": "Emotionality",
+            "chineseText": "感受自己强烈的情绪"
+          },
+          {
+            "text": "Feel others' emotions.",
+            "num": 43,
+            "key": 1,
+            "categoryName": "Emotionality",
+            "chineseText": "感受到他人的情绪"
+          },
+          {
+            "text": "Rarely notice my emotional reactions.",
+            "num": 73,
+            "key": -1,
+            "categoryName": "Emotionality",
+            "chineseText": "很少意识到自己的情绪反应"
+          },
+          {
+            "text": "Don't understand people who get emotional.",
+            "num": 103,
+            "key": -1,
+            "categoryName": "Emotionality",
+            "chineseText": "不能理解别人的情绪化"
+          }
+        ],
+        "name": "Emotionality",
+        "chineseName": "情绪感官",
+        "detail": "情绪高的人能够很好地了解和意识到自己的感受。得分低的人很少意识到自己的感受，往往不会公开表达自己的情绪。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Prefer variety to routine.",
+            "num": 18,
+            "key": 1,
+            "categoryName": "Adventurousness",
+            "chineseText": "倾向于流程的多样性"
+          },
+          {
+            "text": "Prefer to stick with things that I know.",
+            "num": 48,
+            "key": -1,
+            "categoryName": "Adventurousness",
+            "chineseText": "倾向于坚持自己的见识和想法"
+          },
+          {
+            "text": "Dislike changes.",
+            "num": 78,
+            "key": -1,
+            "categoryName": "Adventurousness",
+            "chineseText": "不喜欢改变"
+          },
+          {
+            "text": "Am attached to conventional ways.",
+            "num": 108,
+            "key": -1,
+            "categoryName": "Adventurousness",
+            "chineseText": "喜欢常规的方式方法"
+          }
+        ],
+        "name": "Adventurousness",
+        "chineseName": "冒险精神",
+        "detail": "高分者渴望尝试新的事物，到国外旅行，体验不同的事物。他们抗拒熟悉的事物，觉得一成不变的生活枯燥乏味。他们会选择一条新的回家路线，只是因为它不同。得分低的人往往对改变感到不舒服，更喜欢熟悉的生活和事物。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Love to read challenging material.",
+            "num": 23,
+            "key": 1,
+            "categoryName": "Intellect",
+            "chineseText": "喜欢阅读富有挑战性的材料"
+          },
+          {
+            "text": "Avoid philosophical discussions.",
+            "num": 53,
+            "key": -1,
+            "categoryName": "Intellect",
+            "chineseText": "避开哲学讨论"
+          },
+          {
+            "text": "Have difficulty understanding abstract ideas.",
+            "num": 83,
+            "key": -1,
+            "categoryName": "Intellect",
+            "chineseText": "理解抽象想法存在困难"
+          },
+          {
+            "text": "Am not interested in theoretical discussions.",
+            "num": 113,
+            "key": -1,
+            "categoryName": "Intellect",
+            "chineseText": "对理论性讨论不感兴趣"
+          }
+        ],
+        "name": "Intellect",
+        "chineseName": "智力",
+        "detail": "智力和艺术兴趣是开放体验最重要的两个核心因素。智力得分高的人喜欢思考并重视大脑想法，对新奇和不寻常的想法持开放的态度，并且喜欢讨论智力问题，比如喜欢猜谜语、谜题和脑筋急转弯。而得分较低的人更喜欢与人或事物打交道，而不是与各种想法打交道。他们认为智力训练是浪费时间。Intellect不应等同于intelligence。Intellect侧重不受感情或意志左右的冷静思考或领悟的能力，而不是运用展现智慧的能力（在处理或对付问题或情况时展露的特殊才智），尽管在标准化智力测试中，智力高的人得分略高于智力低的人。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Tend to vote for liberal political candidates.",
+            "num": 28,
+            "key": 1,
+            "categoryName": "Liberalism",
+            "chineseText": "在美国，你更倾向于投票给自由党的政治候选人"
+          },
+          {
+            "text": "Believe that there is no absolute right or wrong.",
+            "num": 58,
+            "key": 1,
+            "categoryName": "Liberalism",
+            "chineseText": "相信没有绝对的对与错"
+          },
+          {
+            "text": "Tend to vote for conservative political candidates.",
+            "num": 88,
+            "key": -1,
+            "categoryName": "Liberalism",
+            "chineseText": "在美国，你更倾向于投票给保守党的政治候选人"
+          },
+          {
+            "text": "Believe that we should be tough on crime.",
+            "num": 118,
+            "key": -1,
+            "categoryName": "Liberalism",
+            "chineseText": "坚信在犯罪问题上我们应该态度严厉"
+          }
+        ],
+        "name": "Liberalism",
+        "chineseName": "自由主义",
+        "detail": "心理自由主义指的是随时准备挑战权威、习俗和传统价值观。在其最极端的形式中，心理自由主义甚至可以代表对规则的公然敌视，对违法者的同情，以及对模棱两可、混乱和骚乱的热爱。心理保守主义者更喜欢遵从传统所带来的安全和稳定。心理自由主义和保守主义并不等同于政治派别，但肯定会使他们倾向于某些政党。"
+      }
+    ],
+    "persons": 111,
+    "thirdTitle": "开放性高的人适合做哪些工作呢？测试一下就知道啦",
+    "secondTitle": "开放性描述一个人的对新鲜事物的认知风格。你在面对陌生环境的接受容忍能力到底有多少呢？有继续探索的欲望吗？换句话说，你是个有好奇心和想象力的人吗？",
+    "pTitle": "大五人格",
+    "news": false,
+    "id": "5c0a61ed16bac7899792b55d"
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b55e",
+    "name": "Extraversion",
+    "category": "性格",
+    "chineseName": "外倾性",
+    "img": "psy/test/waiqing.jpg",
+    "childCategory": [
+      {
+        "testList": [
+          {
+            "text": "Make friends easily.",
+            "num": 2,
+            "key": 1,
+            "categoryName": "Friendliness",
+            "chineseText": "容易结交朋友"
+          },
+          {
+            "text": "Feel comfortable around people.",
+            "num": 32,
+            "key": 1,
+            "categoryName": "Friendliness",
+            "chineseText": "在人群中感觉舒服"
+          },
+          {
+            "text": "Avoid contacts with others.",
+            "num": 62,
+            "key": -1,
+            "categoryName": "Friendliness",
+            "chineseText": "避免与人产生冲突"
+          },
+          {
+            "text": "Keep others at a distance.",
+            "num": 92,
+            "key": -1,
+            "categoryName": "Friendliness",
+            "chineseText": "与他人保持距离"
+          }
+        ],
+        "name": "Friendliness",
+        "chineseName": "友善",
+        "detail": "友好的人真诚地喜欢别人，并且公开展露对别人积极的情感。他们可以快速与人结交朋友，并形成亲密的关系。而得分较低的人不一定冷漠、不友好，只是他们不会主动与他人接触，而这常会被视为冷漠和矜持。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Love large parties.",
+            "num": 7,
+            "key": 1,
+            "categoryName": "Gregariousness",
+            "chineseText": "喜欢大型聚会"
+          },
+          {
+            "text": "Talk to a lot of different people at parties.",
+            "num": 37,
+            "key": 1,
+            "categoryName": "Gregariousness",
+            "chineseText": "在派对中活跃，与不同的人交流"
+          },
+          {
+            "text": "Prefer to be alone.",
+            "num": 67,
+            "key": -1,
+            "categoryName": "Gregariousness",
+            "chineseText": "喜欢独处"
+          },
+          {
+            "text": "Avoid crowds.",
+            "num": 97,
+            "key": -1,
+            "categoryName": "Gregariousness",
+            "chineseText": "避开人群"
+          }
+        ],
+        "name": "Gregariousness",
+        "chineseName": "合群",
+        "detail": "群居者觉得和别人在一起愉快、刺激、回馈性高。他们喜欢人群并感到兴奋。得分较低的人往往会感到不知所措，因此会积极避开人群。有时候，他们不一定不喜欢和别人在一起，但他们对隐私和独处时间的需求要比在这方面得分高的人大得多。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Take charge.",
+            "num": 12,
+            "key": 1,
+            "categoryName": "Assertiveness",
+            "chineseText": "掌控"
+          },
+          {
+            "text": "Try to lead others.",
+            "num": 42,
+            "key": 1,
+            "categoryName": "Assertiveness",
+            "chineseText": "努力领导他人"
+          },
+          {
+            "text": "Take control of things.",
+            "num": 72,
+            "key": 1,
+            "categoryName": "Assertiveness",
+            "chineseText": "掌控事务"
+          },
+          {
+            "text": "Wait for others to lead the way.",
+            "num": 102,
+            "key": -1,
+            "categoryName": "Assertiveness",
+            "chineseText": "等待被领导"
+          }
+        ],
+        "name": "Assertiveness",
+        "chineseName": "自信果断",
+        "detail": "高分者喜欢说出自己的想法，负责并指挥别人。他们往往是团队中的领导者。得分低的人往往比较寡言，接受他人的领导。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Am always busy.",
+            "num": 17,
+            "key": 1,
+            "categoryName": "Activity Level",
+            "chineseText": "总是很忙"
+          },
+          {
+            "text": "Am always on the go.",
+            "num": 47,
+            "key": 1,
+            "categoryName": "Activity Level",
+            "chineseText": "总是忙个不停"
+          },
+          {
+            "text": "Do a lot in my spare time.",
+            "num": 77,
+            "key": 1,
+            "categoryName": "Activity Level",
+            "chineseText": "在空闲时间做很多事情"
+          },
+          {
+            "text": "Like to take it easy.",
+            "num": 107,
+            "key": -1,
+            "categoryName": "Activity Level",
+            "chineseText": "喜欢从容处事"
+          }
+        ],
+        "name": "Activity Level",
+        "chineseName": "行动力",
+        "detail": "积极的人过着快节奏、忙碌的生活。他们行动迅速，精力充沛，充满干劲，常同时参与许多活动。而得分较低的人会以更慢、更悠闲、更放松的节奏前进。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Love excitement.",
+            "num": 22,
+            "key": 1,
+            "categoryName": "Excitement-Seeking",
+            "chineseText": "喜欢兴奋"
+          },
+          {
+            "text": "Seek adventure.",
+            "num": 52,
+            "key": 1,
+            "categoryName": "Excitement-Seeking",
+            "chineseText": "追求冒险"
+          },
+          {
+            "text": "Enjoy being reckless.",
+            "num": 82,
+            "key": 1,
+            "categoryName": "Excitement-Seeking",
+            "chineseText": "喜欢鲁莽行事不计后果"
+          },
+          {
+            "text": "Act wild and crazy.",
+            "num": 112,
+            "key": 1,
+            "categoryName": "Excitement-Seeking",
+            "chineseText": "行为野蛮疯狂"
+          }
+        ],
+        "name": "Excitement-Seeking",
+        "chineseName": "追求刺激",
+        "detail": "得分高的人在没有高水平刺激的情况下很容易感到乏味。他们喜欢明亮的灯光和喧嚣，可能会冒险、寻找刺激。得分低的人则会被噪音和骚动所击垮，避开寻求刺激。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Radiate joy.",
+            "num": 27,
+            "key": 1,
+            "categoryName": "Cheerfulness",
+            "chineseText": "发散/传播乐趣"
+          },
+          {
+            "text": "Have a lot of fun.",
+            "num": 57,
+            "key": 1,
+            "categoryName": "Cheerfulness",
+            "chineseText": "玩得很开心"
+          },
+          {
+            "text": "Love life.",
+            "num": 87,
+            "key": 1,
+            "categoryName": "Cheerfulness",
+            "chineseText": "热爱生活"
+          },
+          {
+            "text": "Look at the bright side of life.",
+            "num": 117,
+            "key": 1,
+            "categoryName": "Cheerfulness",
+            "chineseText": "生活态度乐观向上，总是看到积极的一面"
+          }
+        ],
+        "name": "Cheerfulness",
+        "chineseName": "愉悦",
+        "detail": "它衡量的是积极的情绪和感觉，而不是消极的情绪(这是神经过敏症的一部分)。得分高的人通常会经历一系列积极的感受，包括快乐、热情、乐观和快乐。得分低的人精力不充沛、情绪不高涨。"
+      }
+    ],
+    "persons": 326,
+    "secondTitle": "外倾性来测试与人际互动的能力、对刺激的需要以及获得愉悦的能力。",
+    "thirdTitle": "你是一个喜欢主动与人接触的人还是一个安静谨慎的人？通过这个测试，了解一下你在与人交往中的活力值是多少吧！",
+    "pTitle": "大五人格",
+    "news": false,
+    "id": "5c0a61ed16bac7899792b55e"
+  },
+  {
+    "_id": "5c0a61ed16bac7899792b55f",
+    "name": "Nneuroticism",
+    "category": "性格",
+    "chineseName": "情绪稳定性",
+    "img": "psy/test/qingxuwending.jpg",
+    "childCategory": [
+      {
+        "testList": [
+          {
+            "text": "Worry about things.",
+            "num": 1,
+            "key": 1,
+            "categoryName": "Anxiety",
+            "chineseText": "总是忧虑"
+          },
+          {
+            "text": "Fear for the worst.",
+            "num": 31,
+            "key": 1,
+            "categoryName": "Anxiety",
+            "chineseText": "担心变得更糟"
+          },
+          {
+            "text": "Am afraid of many things.",
+            "num": 61,
+            "key": 1,
+            "categoryName": "Anxiety",
+            "chineseText": "害怕许多事务"
+          },
+          {
+            "text": "Get stressed out easily.",
+            "num": 91,
+            "key": 1,
+            "categoryName": "Anxiety",
+            "chineseText": "轻易释放压力"
+          }
+        ],
+        "name": "Anxiety",
+        "chineseName": "焦虑",
+        "detail": "焦虑个体经常会被“要么战斗，要么逃跑”此类想法所控制。因此，高度焦虑的人通常会觉得危险将至。他们可能会因为某种特定的情况产生恐惧，也可能单纯觉得恐慌。紧张、不安时常困扰着他们。焦虑程度低的人通常都很平静，无所畏惧。年代的平均水平。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Get angry easily.",
+            "num": 6,
+            "key": 1,
+            "categoryName": "Anger",
+            "chineseText": "易怒"
+          },
+          {
+            "text": "Get irritated easily.",
+            "num": 36,
+            "key": 1,
+            "categoryName": "Anger",
+            "chineseText": "易怒"
+          },
+          {
+            "text": "Lose my temper.",
+            "num": 66,
+            "key": 1,
+            "categoryName": "Anger",
+            "chineseText": "发脾气"
+          },
+          {
+            "text": "Am not easily annoyed.",
+            "num": 96,
+            "key": -1,
+            "categoryName": "Anger",
+            "chineseText": "不容易被激怒"
+          }
+        ],
+        "name": "Anger",
+        "chineseName": "愤怒",
+        "detail": "得分高的人当事情没有按照他们的意愿发展时，他们会感到愤怒。对公平对待态度敏感，当他们感到被欺骗时，会感到愤恨和痛苦。这个数值衡量发怒的倾向程度;一个人是否表达烦恼和敌意取决于他的友善程度。得分低的人不容易生气。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Often feel blue.",
+            "num": 11,
+            "key": 1,
+            "categoryName": "Depression",
+            "chineseText": "经常心情忧郁"
+          },
+          {
+            "text": "Dislike myself.",
+            "num": 41,
+            "key": 1,
+            "categoryName": "Depression",
+            "chineseText": "自我厌恶"
+          },
+          {
+            "text": "Am often down in the dumps.",
+            "num": 71,
+            "key": 1,
+            "categoryName": "Depression",
+            "chineseText": "经常垂头丧气"
+          },
+          {
+            "text": "Feel comfortable with myself.",
+            "num": 101,
+            "key": -1,
+            "categoryName": "Depression",
+            "chineseText": "自己待着很舒服"
+          }
+        ],
+        "name": "Depression",
+        "chineseName": "忧郁",
+        "detail": "抑郁衡量的是人们感到悲伤、沮丧和气馁的倾向。得分高的人缺乏活力，很难行动起来。得分低的人往往没有这些抑郁情绪。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Find it difficult to approach others.",
+            "num": 16,
+            "key": 1,
+            "categoryName": "Self-Consciousness",
+            "chineseText": "很难接近别人"
+          },
+          {
+            "text": "Am afraid to draw attention to myself.",
+            "num": 46,
+            "key": 1,
+            "categoryName": "Self-Consciousness",
+            "chineseText": "害怕自己引起关注"
+          },
+          {
+            "text": "Only feel comfortable with friends.",
+            "num": 76,
+            "key": 1,
+            "categoryName": "Self-Consciousness",
+            "chineseText": "只跟朋友待着舒服"
+          },
+          {
+            "text": "Am not bothered by difficult social situations.",
+            "num": 106,
+            "key": -1,
+            "categoryName": "Self-Consciousness",
+            "chineseText": "不会被社交困难困扰"
+          }
+        ],
+        "name": "Self-Consciousness",
+        "chineseName": "自我意识",
+        "detail": "自我意识强的人对别人对自己的看法很敏感。别人的拒绝和嘲笑常常令他们感到害羞或者不舒服。他们很容易感到尴尬和羞愧，担心别人会批评或取笑自己，虽然这种担心是夸张和不切实际的，但也令它成为一种自我实现的预言。相比之下，得分较低的人不会被错误地认为每个人都在观察和评判他们。他们在社交场合不会感到紧张。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Go on binges.",
+            "num": 21,
+            "key": 1,
+            "categoryName": "Immoderation",
+            "chineseText": "去狂欢"
+          },
+          {
+            "text": "Rarely overindulge.",
+            "num": 51,
+            "key": -1,
+            "categoryName": "Immoderation",
+            "chineseText": "很少放纵"
+          },
+          {
+            "text": "Easily resist temptations.",
+            "num": 81,
+            "key": -1,
+            "categoryName": "Immoderation",
+            "chineseText": "轻易抵抗住诱惑"
+          },
+          {
+            "text": "Am able to control my cravings.",
+            "num": 111,
+            "key": -1,
+            "categoryName": "Immoderation",
+            "chineseText": "有能力控制自己的欲望"
+          }
+        ],
+        "name": "Immoderation",
+        "chineseName": "无节制",
+        "detail": "无节制的人感到强烈的渴望和冲动，并难以抗拒。他们倾向于追求短期的快乐和回报，而不是长期的影响。得分低的人不会有强烈的、不可抗拒的欲望，因此也不会被诱惑并过度放纵。"
+      },
+      {
+        "testList": [
+          {
+            "text": "Panic easily.",
+            "num": 26,
+            "key": 1,
+            "categoryName": "Vulnerability",
+            "chineseText": "容易感到恐慌"
+          },
+          {
+            "text": "Become overwhelmed by events.",
+            "num": 56,
+            "key": 1,
+            "categoryName": "Vulnerability",
+            "chineseText": "遇事变得不知所措"
+          },
+          {
+            "text": "Feel that I'm unable to deal with things.",
+            "num": 86,
+            "key": 1,
+            "categoryName": "Vulnerability",
+            "chineseText": "觉得自己无法解决问题"
+          },
+          {
+            "text": "Remain calm under pressure.",
+            "num": 116,
+            "key": -1,
+            "categoryName": "Vulnerability",
+            "chineseText": "在压力下保持镇定"
+          }
+        ],
+        "name": "Vulnerability",
+        "chineseName": "脆弱",
+        "detail": "得分高的人在受到压迫或压力大时会感到恐慌、困惑和无助。而得分低的人即便在高压下，甚至会更泰然自若、自信和思维清晰。"
+      }
+    ],
+    "persons": 541,
+    "secondTitle": "情绪稳定性又可以称为神经质，这个测试考察你在愤怒、焦虑、抑郁等消极情感上的情感调节上的倾向。",
+    "thirdTitle": "生活在如今这个凡事都高频的社会，你的压力承受值到底有多强呢？赶快测试一下吧",
+    "pTitle": "大五人格",
+    "news": false,
+    "id": "5c0a61ed16bac7899792b55f"
+  }
+]

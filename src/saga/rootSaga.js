@@ -4,10 +4,11 @@ import {
   call
 } from 'redux-saga/effects';
 import commonSaga from "./common.js";
+import psyTestSaga from "./psyTest";
 
 
 export default function* rootSaga() {
-  const sagas = [commonSaga];
+  const sagas = [commonSaga, psyTestSaga];
   yield all(sagas.map(saga =>
     spawn(function* () {
       while (true) {
