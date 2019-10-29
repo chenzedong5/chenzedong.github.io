@@ -53,5 +53,6 @@
     "less-loader": "^5.0.0",
     "react-app-rewired": "^2.1.4",
     "react-snap": "^1.23.0"
-  }
+  },
+  "homepage": "/web/"
 }

@@ -40,8 +40,6 @@ function* asyncGetTestList(action) {
   })
 }
 
-
-
 function getDownScore(l) {
   let s = [5, 4, 3, 2, 1]
   return s[l - 1]
@@ -70,12 +68,11 @@ function handles(arr) {
 function* asyncPushTestResult(action) {
   const {
     _id,
-    testList
+    testList,
+    cb
   } = action.payload
 
   let psyObj = bigfive.find(item => item._id === _id)
-
-  console.log(testList)
 
   const _obj = handles(testList)
   const reObj = {}
@@ -110,6 +107,7 @@ function* asyncPushTestResult(action) {
       result
     }
   })
+  cb && cb()
 }
 
 export default function* rootSaga() {

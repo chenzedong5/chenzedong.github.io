@@ -14,17 +14,16 @@ class W extends Component {
   }
   componentDidMount() {
     //回退
-    console.log(this.props.wxShareObj, 'share')
     if (this.props.result.chineseName) {
       document.title = `${this.props.result.pTitle}测试`
     } else {
-      this.props.history.push(this.props.match.url)
+      this.props.history.push(this.props.match.url.replace(/\/psy_test.*$/, "/psy_test"))
       return
     }
     Toast.info('双击图片保存！！', 2);
   }
   backHome = () => {
-    this.props.backHome()
+    this.props.history.push(this.props.match.url.replace(/\/psy_test.*$/, "/psy_test"))
   }
   saveImg = () => {
     Mshare.popup({

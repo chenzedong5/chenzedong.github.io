@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useCallback } from "react";
 import styles from "./index.module.less";
 import { connect } from "react-redux";
 import * as ACTION from "actionType"
@@ -8,49 +8,43 @@ import TestDetail from "../component/psy_test/TestDetail"
 import TestResult from "../component/psy_test/TestResult"
 
 function Home(props) {
-  const { match, psyList, result, testList, getTestList, submitResult } = props
+
+  const { match, getPsyList, psyList, result, testList, getTestList, submitResult, history } = props
+
   useEffect(() => {
-    props.getPsyList()
+    getPsyList()
   }, [])
 
-  const backHome = () => {
-    props.history.push(`${props.match.url}`)
-  }
+  const handleResult = useCallback((...args) => {
+    submitResult(...args, () => {
+      history.push(`${match.url}/result`);
+    })
+  }, [history, match.url, submitResult])
 
   return (
-    <>
-      <div className={styles.home}>
-        <Switch>
-          <Route path={match.url + '/list'} render={() => {
-            return <ChoiceTest psyList={psyList} match={match} />
-          }} />
-          <Route exact path={match.url + '/detail'} render={({ location }) => {
-            const urlQu = new URLSearchParams(location.search)
-            return (
-              <TestDetail
-                _id={urlQu.get("_id")}
-                category={urlQu.get("category")}
-                getTestList={getTestList}
-                testList={testList}
-                submitResult={(...args) => {
-                  submitResult(...args)
-                  props.history.push(`${props.match.url}/result`);
-                }}
-              />
-            )
-          }} />
-          <Route exact path={match.url + '/result'} render={(obj) => {
-            return (
-              <TestResult
-                backHome={backHome}
-                result={result}
-              />
-            )
-          }} />
-          {/* <Redirect to={`${match.url}/list`} /> */}
-        </Switch>
-      </div>
-    </>
+    <div className={styles.home}>
+      <Switch>
+        <Route path={match.url + '/list'} render={() => {
+          return <ChoiceTest psyList={psyList} match={match} />
+        }} />
+        <Route exact path={match.url + '/detail'} render={({ location }) => {
+          const urlQu = new URLSearchParams(location.search)
+          return (
+            <TestDetail
+              _id={urlQu.get("_id")}
+              category={urlQu.get("category")}
+              getTestList={getTestList}
+              testList={testList}
+              submitResult={handleResult}
+            />
+          )
+        }} />
+        <Route exact path={match.url + '/result'} render={(obj) => {
+          return (<TestResult result={result} />)
+        }} />
+        <Redirect to={`${match.url}/list`} />
+      </Switch>
+    </div>
   );
 }
 
@@ -68,8 +62,8 @@ export default connect(state => {
     getTestList(_id) {
       dispatch({ type: ACTION.GET_TEST_LIST, payload: { _id } })
     },
-    submitResult(testList, _id) {
-      dispatch({ type: ACTION.PUSH_TEST_RESULT, payload: { testList, _id } })
+    submitResult(testList, _id, cb) {
+      dispatch({ type: ACTION.PUSH_TEST_RESULT, payload: { testList, _id, cb } })
     }
   }
 })(Home)
