@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import ScrollList from './ScrollList';
 import { NavBar, Icon } from 'antd-mobile';
 import './index.less';
-import styles from './index.module.less';
 import { CDN } from "config";
+import { withRouter } from "react-router-dom";
 
 const TextDetail = props => {
   const [startTest, setStartTest] = useState(false)
@@ -13,16 +13,18 @@ const TextDetail = props => {
   }, []);
 
   const submitResult = (obj) => {
-    obj._id = props._id
-    props.submitResult(obj, props.category)
+    props.submitResult(obj.testList, props._id)
   }
   const back = () => {
-    props.history.push(`${props.match.url}`)
+    props.history.push(`${props.match.url.replace(/\/psy_test.*$/, "/psy_test")}`)
   }
+
   const pushStartTest = () => {
-    startTest(true)
+    setStartTest(true)
   }
+
   const { testList } = props
+
   return (
     <div className='text-detail'>
       <NavBar
@@ -31,23 +33,23 @@ const TextDetail = props => {
         onLeftClick={back}>
         {testList.name}
       </NavBar>
-      < div className='test-start'>
-        <img src={CDN + props.testList.img} alt="test's images" />
-        <div key='title' className='title'>
-          <p className='title-1'>{props.testList.chineseName}</p>
-          <p className='title-2'>{props.testList.name}</p>
-        </div>
-        <div className='test-start-btn' size='small' type='primary' onClick={props.pushStartTest}>开始测试</div>
-        <div className='second' key='second'>
-          <div>{props.testList.secondTitle}</div>
-          <div className='third-title'>{props.testList.thirdTitle}</div>
-        </div>
-      </div>
-
-      {/* { startTest ? <TestStart testList={testList} pushStartTest={pushStartTest} /> : '' }
-     { testList._id && startTest ? <ScrollList submitResult={submitResult} testList={testList} /> : '' } */}
+      {!startTest ?
+        <div className='test-start'>
+          <img src={CDN + props.testList.img} alt="test's images" />
+          <div key='title' className='title'>
+            <p className='title-1'>{props.testList.chineseName}</p>
+            <p className='title-2'>{props.testList.name}</p>
+          </div>
+          <div className='test-start-btn' size='small' type='primary' onClick={pushStartTest}>开始测试</div>
+          <div className='second' key='second'>
+            <div>{props.testList.secondTitle}</div>
+            <div className='third-title'>{props.testList.thirdTitle}</div>
+          </div>
+        </div> :
+        <ScrollList submitResult={submitResult} testList={testList} />
+      }
     </div >
   )
 }
 
-export default TextDetail
+export default withRouter(TextDetail) 

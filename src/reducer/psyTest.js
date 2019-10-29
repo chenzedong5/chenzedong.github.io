@@ -4,7 +4,8 @@ import {
 
 const init = {
   psyList: [],
-  testList: {}
+  testList: {},
+  result: {}
 }
 
 export default (state = init, action) => {

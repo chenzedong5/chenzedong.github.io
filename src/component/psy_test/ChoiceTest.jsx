@@ -39,7 +39,7 @@ const ChoiceTest = props => {
           })
           }
         </List>
-        <div className={styles.home_bottom_line}>
+        <div className="home-bottom-line">
           <div></div>
           <span>我也是有底线的</span>
           <div></div>

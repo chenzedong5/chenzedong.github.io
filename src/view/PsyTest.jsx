@@ -5,12 +5,17 @@ import * as ACTION from "actionType"
 import { Switch, Redirect, Route } from 'react-router-dom';
 import ChoiceTest from "../component/psy_test/ChoiceTest"
 import TestDetail from "../component/psy_test/TestDetail"
+import TestResult from "../component/psy_test/TestResult"
 
 function Home(props) {
-  const { match, psyList, testList, getTestList } = props
+  const { match, psyList, result, testList, getTestList, submitResult } = props
   useEffect(() => {
     props.getPsyList()
   }, [])
+
+  const backHome = () => {
+    props.history.push(`${props.match.url}`)
+  }
 
   return (
     <>
@@ -27,10 +32,22 @@ function Home(props) {
                 category={urlQu.get("category")}
                 getTestList={getTestList}
                 testList={testList}
+                submitResult={(...args) => {
+                  submitResult(...args)
+                  props.history.push(`${props.match.url}/result`);
+                }}
               />
             )
           }} />
-          <Redirect to={`${match.url}/list`} />
+          <Route exact path={match.url + '/result'} render={(obj) => {
+            return (
+              <TestResult
+                backHome={backHome}
+                result={result}
+              />
+            )
+          }} />
+          {/* <Redirect to={`${match.url}/list`} /> */}
         </Switch>
       </div>
     </>
@@ -41,6 +58,7 @@ export default connect(state => {
   return {
     psyList: state.psyTestState.psyList,
     testList: state.psyTestState.testList,
+    result: state.psyTestState.result
   }
 }, dispatch => {
   return {
@@ -49,6 +67,9 @@ export default connect(state => {
     },
     getTestList(_id) {
       dispatch({ type: ACTION.GET_TEST_LIST, payload: { _id } })
+    },
+    submitResult(testList, _id) {
+      dispatch({ type: ACTION.PUSH_TEST_RESULT, payload: { testList, _id } })
     }
   }
 })(Home)

@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
+import OptionRender from "./OptionRender"
 import { Progress } from 'antd-mobile';
 import styles from './index.module.less';
-
+import { CDN } from "config";
+import './index.less';
 const ANWSER = ['', 'Strongly disagree', 'Disagree', 'Uncertainty', 'Agree', 'Totally agree']
 
 class ScrollList extends Component {
@@ -27,9 +29,10 @@ class ScrollList extends Component {
 
   questionRow = (rowData, rowID) => {
     let sum = this.props.testList.childCategory.length
+
     return (
       <li key={rowID} className={styles.testDetail}>
-        {/* <img src={QINNIUFUC(this.props.testList.img)} alt="test's image" /> */}
+        <img src={CDN + this.props.testList.img} alt="test's images" />
         <div className={styles.testitemlist}>
           <div>
             <p>{`${rowID}/${sum}. `}{rowData.text}</p>
@@ -81,7 +84,7 @@ class ScrollList extends Component {
       return Object.assign({}, preState, {
         list: preState.list.concat({
           row: () => <li key={`${preState.curent}_info`} className={styles.testDetail}>
-            {/* <img src={QINNIUFUC(this.props.testList.img)} alt="test's image" /> */}
+            <img src={CDN + this.props.testList.img} alt="test's images" />
             <div className={styles.testitemlist}>
               <div style={{ color: 'white', backgroundColor: 'rgb(236, 120, 126)' }}>
                 <p>{info}</p>
@@ -134,8 +137,8 @@ class ScrollList extends Component {
           percent={this.state.curent / (this.props.testList.childCategory && this.props.testList.childCategory.length) * 100}
           position="fixed" />
         <ul ref={(ref) => this.ul = ref} style={stylesd}>
-          {this.state.list.map(item => {
-            return item.row && item.row(item)
+          {this.state.list.map((item, index) => {
+            return item.row && <span key={index}>{item.row(item)}</span>
           })}
         </ul>
         {this.state.overTest ? <div className={styles.submitButton}>
@@ -145,31 +148,5 @@ class ScrollList extends Component {
     )
   }
 }
-
-class OptionRender extends Component {
-  state = {
-    choiceKey: -1
-  }
-  clickHandle = (e) => {
-    if (this.state.choiceKey != -1 || !e.target.dataset.key) return
-    this.setState({
-      choiceKey: e.target.dataset.key
-    })
-    this.props.choiceOption(e.target.dataset.key)
-  }
-  render() {
-    return (
-      <ul onClick={this.clickHandle}>
-        <li data-key={1} key={1} className={this.state.choiceKey == 1 ? styles.active : ''}>{ANWSER[1]}</li>
-        <li data-key={2} key={2} className={this.state.choiceKey == 2 ? styles.active : ''}>{ANWSER[2]}</li>
-        <li data-key={3} key={3} className={this.state.choiceKey == 3 ? styles.active : ''}>{ANWSER[3]}</li>
-        <li data-key={4} key={4} className={this.state.choiceKey == 4 ? styles.active : ''}>{ANWSER[4]}</li>
-        <li data-key={5} key={5} className={this.state.choiceKey == 5 ? styles.active : ''}>{ANWSER[5]}</li>
-      </ul>
-    )
-  }
-}
-
-{/* <ScrollList submitResult={this.submitResult} testList={testList}/> */}
 
 export default ScrollList
