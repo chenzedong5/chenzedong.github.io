@@ -9,17 +9,17 @@
 
   .home-bottom-line {
     padding-bottom: 60px;
-    width: 77%;
+    width: 17.5rem;
     margin: 0 auto;
     display: flex;
 
     span {
       text-align: center;
       font-family: SourceHanSansCN-Regular;
-      font-size: 12px;
+      font-size: .75rem;
       color: #cccccc;
       display: block;
-      width: 125px;
+      width: 7.5rem;
       overflow: hidden;
     }
 
@@ -27,9 +27,9 @@
       overflow: hidden;
       border-bottom: 1px solid #cccccc;
       height: 0px;
-      width: 40%;
+      width: 5rem;
       position: relative;
-      top: 6px;
+      top: .375rem;
     }
   }
 
@@ -54,15 +54,15 @@
 
     .am-list-header {
       box-sizing: border-box;
-      height: 36px;
+      height: 2.25rem;
       border: none;
       background: linear-gradient(#c9174b, #e61550, #c9174b);
       border-bottom: none;
       text-align: center;
-      line-height: 36px;
+      line-height: 2.25rem;
       color: #f5f5f5;
       font-weight: bold;
-      font-size: 18px;
+      font-size: 1.125rem;
       padding: 0px;
       font-family: SourceHanSansCN-Bold;
     }
@@ -74,7 +74,7 @@
       .am-list-item {
         padding-left: 0px;
         width: 92%;
-        height: 120px;
+        height: 7.5rem;
         margin: 0 auto;
         overflow: hidden;
 
@@ -96,7 +96,13 @@
 
           .item-left {
             padding: 14px 0px;
-            width: 90px;
+            width: 5.625rem;
+
+            img {
+              width: 5.625rem;
+              height: 5.625rem;
+              border-radius: .375rem
+            }
           }
 
           .item-right {
@@ -104,35 +110,36 @@
             padding-bottom: 14px;
             padding-top: 14px;
             margin-left: 12px;
+            width: 100%;
 
             .hot-img {
               padding-left: 4px;
               margin-top: -6px;
-              height: 20px;
-              width: 18px;
+              height: 1.25rem;
+              width: 1.125rem;
             }
 
             .test-count {
               position: absolute;
-              top: 13px;
+              top: .8125rem;
               right: 0px;
-              font-size: 12px;
+              font-size: .75rem;
               color: #c9174b;
             }
 
             .test-button {
               position: absolute;
-              bottom: 12px;
-              right: 4px;
-              width: 60px;
-              height: 20px;
-              font-size: 12px;
+              bottom: .75rem;
+              right: .25rem;
+              width: 3.75rem;
+              height: 1.25rem;
+              font-size: .75rem;
               font-family: SourceHanSansCN-Medium;
-              padding: 0px 4px;
-              line-height: 20px;
+              padding: 0 .25rem;
+              line-height: 1.25rem;
               color: #f5f5f5;
               background: linear-gradient(#c9174b, #e61550, #c9174b);
-              border-radius: 5px;
+              border-radius: .3125rem;
               box-sizing: border-box;
               overflow: hidden;
               box-shadow: 0px 1.8px 4px 0px #e61550
@@ -140,17 +147,17 @@
 
             .test-category {
               position: absolute;
-              bottom: 14px;
+              bottom: .875rem;
               display: block;
               border: 1px solid #2289cb;
-              height: 12px;
+              height: .75rem;
               text-align: center;
-              line-height: 12px;
-              width: 30px;
-              font-size: 12px;
+              line-height: .75rem;
+              width: 1.875rem;
+              font-size: .75rem;
               color: #2289cb;
               background: white;
-              padding: 2px 2px;
+              padding: .125rem .125rem;
               border-radius: 2px;
               font-family: SourceHanSansCN-Regular;
             }
@@ -313,6 +320,15 @@
   font-family: SourceHanSansCN-Bold;
   background: #fafafa;
 
+  .am-navbar-title {
+    font-size: 1.125rem
+  }
+
+  .am-icon-md {
+    width: 1.375rem;
+    height: 1.375rem;
+  }
+
   .am-navbar {
     background: #fafafa;
     position: fixed;
@@ -321,7 +337,7 @@
     width: 100%;
     overflow: hidden;
     z-index: 1000;
-    height: 45px;
+    height: 2.8125rem;
 
     .am-navbar-title {
       color: rgba(20, 20, 20, 1);
@@ -329,13 +345,13 @@
 
     .am-icon {
       color: #cccccc;
-      font-size: 16px;
+      font-size: 1rem;
     }
   }
 
   .test-start {
-    margin-top: 60px;
-    padding-top: 30px;
+    margin-top: 3.75rem;
+    padding-top: 1.875rem;
     background: #fafafa;
     position: absolute;
     bottom: 0px;
@@ -345,55 +361,55 @@
 
     >img {
       display: block;
-      width: 140px;
+      width: 8.75rem;
       margin: 0 auto;
-      border-radius: 70px;
+      border-radius: 4.375rem;
     }
 
     .title {
       text-align: center;
-      margin: 20px 0px;
+      margin: 1.25rem 0px;
 
       .title-1 {
-        line-height: 30px;
+        line-height: 1.875rem;
         color: black;
-        font-size: 18px;
+        font-size: 1.125rem;
         font-weight: bold;
         font-family: SourceHanSansCN-Bold
       }
 
       .title-2 {
-        font-size: 14px;
+        font-size: .875rem;
         color: rgba(0, 0, 0, 0.8);
       }
     }
 
     .second {
-      font-size: 14px;
-      line-height: 28px;
+      font-size: .875rem;
+      line-height: 1.75rem;
       width: 90%;
-      margin: 20px auto;
+      margin: 1.25rem auto;
       color: rgba(0, 0, 0, 0.8);
 
       .third-title {
-        font-size: 14px;
+        font-size: .875rem;
         font-weight: bold;
         color: #c9174b;
       }
     }
 
     .test-start-btn {
-      width: 186px;
+      width: 11.625rem;
       margin: 0 auto;
-      height: 32px;
-      font-size: 16px;
+      height: 2rem;
+      font-size: 1rem;
       font-family: SourceHanSansCN-Medium;
-      padding: 0px 4px;
-      line-height: 30px;
+      padding: 0 .25rem;
+      line-height: 1.875rem;
       text-align: center;
       color: #f5f5f5;
       background: linear-gradient(#c9174b, #e61550, #c9174b);
-      border-radius: 8px;
+      border-radius: .5rem;
       box-sizing: border-box;
       overflow: hidden;
       box-shadow: 0px 1.8px 4px 0px #e61550;
@@ -412,9 +428,9 @@
 
   .handle-bar {
     position: fixed;
-    bottom: 20px;
-    margin: 20px 0px 2px 0px;
-    font-size: 16px;
+    bottom: 1.25rem;
+    margin: 1.25rem 0px 2px 0px;
+    font-size: 1rem;
     width: 100%;
     display: flex;
     z-index: 1000;
@@ -424,14 +440,14 @@
       border: none;
       margin: 0 auto;
       width: 46vw;
-      height: 32px;
-      font-size: 16px;
+      height: 2rem;
+      font-size: 1rem;
       font-family: SourceHanSansCN-Medium;
-      line-height: 32px;
+      line-height: 2rem;
       text-align: center;
       color: #f5f5f5;
       background: linear-gradient(#2289cb, #2289cb, #2289cb);
-      border-radius: 8px;
+      border-radius: .5rem;
       box-sizing: border-box;
       overflow: hidden; // box-shadow: 0px 1.8px 4px 0px #e61550;
       border: none;
@@ -474,8 +490,8 @@
   width: 100vw;
 
   >div {
-    height: 300px;
-    margin: 20px 0px;
+    height: 18.75rem;
+    margin: 1.25rem 0;
     background-color: white;
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.08);
     font-family: SourceHanSansCN-Regular;
@@ -484,23 +500,23 @@
 
 .share-handle {
   width: 100%;
-  height: 200px;
+  height: 12.5rem;
   background: white;
   font-family: SourceHanSansCN-Bold;
-  padding-top: 40px;
+  padding-top: 2.5rem;
   overflow: hidden;
 
   ul {
     width: 80%;
     margin: 0 auto;
-    height: 100px;
+    height: 6.25rem;
     display: flex;
     justify-content: space-around;
     justify-items: center;
 
     li {
       // flex: 1;
-      width: 60px;
+      width: 3.75rem;
 
       img {
         width: 100%;
@@ -510,7 +526,7 @@
         display: block;
         width: 100%;
         text-align: center;
-        font-size: 12px;
+        font-size: .75rem;
         color: #444;
       }
     }
@@ -520,16 +536,16 @@
 .right-li {
   >div {
     float: right;
-    margin-right: 10px;
+    margin-right: .625rem;
   }
 
   .dot-right {
     background: white;
     position: absolute;
-    width: 8px;
-    right: -4px;
-    top: 8px;
-    height: 8px;
+    width: .5rem;
+    right: -0.25rem;
+    top: .5rem;
+    height: .5rem;
     transform: skewX(-40deg);
   }
 }
@@ -537,10 +553,10 @@
 .dot-left {
   background: white;
   position: absolute;
-  width: 8px;
-  left: -4px;
-  top: 8px;
-  height: 8px;
+  width: .5rem;
+  left: -0.25rem;
+  top: .5rem;
+  height: .5rem;
   transform: skewX(40deg);
 }
 

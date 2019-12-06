@@ -12,10 +12,10 @@ function App() {
       <Provider store={store}>
         <HashRouter>
           <Switch>
-            {/* <Route path="/home" component={Home} /> */}
+            <Route path="/home" component={Home} />
             {/* <Route path="/music" component={Music} /> */}
             <Route path="/psy_test" component={PsyTest} />
-            <Redirect to={"/psy_test"} />
+            <Redirect to={"/home"} />
           </Switch>
         </HashRouter>
       </Provider>

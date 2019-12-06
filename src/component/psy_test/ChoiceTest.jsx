@@ -22,7 +22,7 @@ const ChoiceTest = props => {
                   props.history.push(`${props.match.url.replace(/\/list.*$/, "")}/detail?_id=${item._id}&category=${item.pTitle}`)
                 }}>
                 <div className='item-left'>
-                  <img src={CDN + item.img} style={{ width: '90px', height: '90px', borderRadius: '6px' }} alt="test's images" />
+                  <img src={CDN + item.img} alt="test's images" />
                 </div>
                 <div className='item-right'>
                   <span className={styles.titleItem}>

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import styles from "./index.module.less";
 import { connect } from "react-redux";
 import * as ACTION from "actionType"
-
+import { Link } from "react-router-dom"
 function Home(props) {
 
   useEffect(() => {
@@ -12,7 +12,11 @@ function Home(props) {
   return (
     <>
       <div className={styles.home}>
-        {props.test}
+        <ul>
+          <li>
+            <Link to={props.match.url.replace(/\/home.*/,"") + "/psy_test"}>心理测试</Link>
+          </li>
+        </ul>
       </div>
     </>
   );
