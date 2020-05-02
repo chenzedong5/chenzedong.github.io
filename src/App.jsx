@@ -13,7 +13,7 @@ function App() {
         <HashRouter>
           <Switch>
             <Route path="/home" component={Home} />
-            {/* <Route path="/music" component={Music} /> */}
+            <Route path="/music" component={Music} />
             <Route path="/psy_test" component={PsyTest} />
             <Redirect to={"/home"} />
           </Switch>

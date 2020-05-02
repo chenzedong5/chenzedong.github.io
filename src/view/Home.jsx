@@ -5,7 +5,7 @@ import * as ACTION from "actionType"
 import { Link } from "react-router-dom"
 import Test from "./Test.jsx";
 import { Modal, Toast } from "antd-mobile"
-
+import picture from "../data/15E455V429260-R037.jpg";
 
 function createModel(title, desc, cb, cb2, text1, text2) {
   Modal.alert(title, desc, [
@@ -26,16 +26,35 @@ function sd() {
       sd()
     },
     () => {
-      Modal.alert('爸爸原谅你了')
+      zhu()
     },
     "不知道",
     "知道"
   )
 }
 
-function Home(props) {
+function zhu() {
+  createModel(
+    "你是发财运的🐷，还是走霉运的🐷",
+    "",
+    () => {
+      Modal.alert('爸爸也是这么想的😆')
+    },
+    () => {
+      Modal.alert('爸爸也是这么想的😝')
+    },
+    "发财运",
+    "走霉运"
+  )
+}
 
-  useEffect(() => {
+function Home(props) {
+  let urpparse = new URLSearchParams(window.location.hash.replace(/.*\?/, "?"))
+
+  const ming = urpparse.get("ming")
+  const ming2 = urpparse.get("ming2")
+
+  const sdf = () => {
     props.handleTest()
 
     createModel(
@@ -49,10 +68,10 @@ function Home(props) {
             "你喜欢男人还是女人",
             "",
             () => {
-              Modal.alert('不，你喜欢吴彦祖❤️')
+              Modal.alert('不，你喜欢进退两男')
             },
             () => {
-              Modal.alert('不，你喜欢吴彦祖❤️')
+              Modal.alert('不，你喜欢' + ming2)
             },
             "👱",
             "👩"
@@ -62,22 +81,11 @@ function Home(props) {
           sd()
         },
         "是个人",
-        "灰卡卡🐷"
+        ming + "🐷"
       ),
-      () => createModel(
-        "你喜欢公🐷还是母🐷",
-        "",
-        () => {
-          Modal.alert('爸爸也是这么想的😆')
-        },
-        () => {
-          Modal.alert('爸爸也是这么想的😝')
-        },
-        "公🐷",
-        "母🐷"
-      )
+      () => zhu()
     )
-  }, [])
+  }
 
 
 
@@ -85,9 +93,10 @@ function Home(props) {
     <>
       <div className={styles.home}>
         <ul>
-          <li>
-            <Link to={props.match.url.replace(/\/home.*/, "") + "/psy_test"}></Link>
-            <Test />
+          <li onClick={sdf} style={{ width: 200, height: 100 }}>
+
+            <img src={picture} style={{ width: "100vw", maxWidth: 600 }} />
+            {/* <Test /> */}
           </li>
         </ul>
       </div>
@@ -104,3 +113,5 @@ export default connect(state => {
     }
   }
 })(Home)
+
+//<Link to={props.match.url.replace(/\/home.*/, "") + "/psy_test"}></Link>

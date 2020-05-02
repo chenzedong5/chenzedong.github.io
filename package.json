@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build && node ../upload_qiniu_page/index.js",
+    "build": "react-app-rewired build && mv build web",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
